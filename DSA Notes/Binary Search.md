@@ -51,6 +51,8 @@ def binary_search(arr, x):
 
 5. **Hidden Sequence**: Check if there is a hidden sequence that you will be following to get the target value, e.g. square root of a number, in this case you are not given array but to get to the square root you will be following a sequence. 
 
+6. Range Given: Check if you are given a range and you completely know that the answer lies between the range, addition might also be that find something minimum or maximum like that of square root questions. 
+
 
 
 ## Important Questions
@@ -61,3 +63,8 @@ def binary_search(arr, x):
 2. [Search in Rotated Sorted array I](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 3. [Search in Rotated Sorted array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 4. [Single element in a Sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+5. [Square root of a number in Log N](https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/)
+6. [nth root of a number](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)
+7. [Koko eating bananas](https://takeuforward.org/binary-search/koko-eating-bananas/)
+8. [Minimum days to make m banquets](https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/)
+9. 

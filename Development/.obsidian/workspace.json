@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/Flutter/Positioning Widget.md",
+                "file": "Frontend/Flutter/State Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/Flutter/Positioning Widget.md",
+                "file": "Frontend/Flutter/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/Flutter/Positioning Widget.md",
+                "file": "Frontend/Flutter/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/Flutter/Positioning Widget.md"
+                "file": "Frontend/Flutter/State Management.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "419f63a92fa797ab",
   "lastOpenFiles": [
+    "Frontend/Flutter/Routing.md",
+    "Frontend/Flutter/Navigation.md",
+    "Frontend/Flutter/State Management.md",
+    "Frontend/Flutter/Positioning Widget.md",
+    "Pasted image 20230710153752.png.md",
     "Pasted image 20230710153808.png",
     "Pasted image 20230710153804.png",
     "Pasted image 20230710153752.png",
-    "Frontend/Flutter/Positioning Widget.md",
     "Frontend/React",
     "Frontend/Flutter",
     "Backend",
