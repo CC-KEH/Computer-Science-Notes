@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Languages/Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Aritificial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Languages/Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science.md",
+                "file": "Languages/Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science.md"
+                "file": "Languages/Go.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "a18383d1cb98391b",
@@ -183,6 +183,12 @@
   },
   "active": "4a45d46b6cb40a82",
   "lastOpenFiles": [
+    "Languages/Languages.md",
+    "Languages/Go.md",
+    "Languages",
+    "DSA/Bit Manipulation.md",
+    "DSA/Arrays.md",
+    "Computer Science.md",
     "Development/App/Flutter/Flutter.md",
     "Development/App/Application Development.md",
     "Development/App/React Native/React Native.md",
@@ -193,7 +199,6 @@
     "Development/App/React Native",
     "React Native.md",
     "Artificial Intelligence/Artificial Intelligence.md",
-    "Computer Science.md",
     "Development/Development.md",
     "Networking/Networking.md",
     "Development/Backend/Backend Development.md",
@@ -203,7 +208,6 @@
     "Operating System/Operating System.md",
     "DSA/Excalidraw/Drawing 2023-07-25 07.26.05.excalidraw.md",
     "Development/App/Flutter/Navigation.md",
-    "DSA/Arrays.md",
     "Development/App/Flutter/Positioning Widget.md",
     "Development/Pasted image 20230710153808.png",
     "Data Science/Data Science.md",
