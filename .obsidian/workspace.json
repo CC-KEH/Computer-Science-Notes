@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9f7dede4b99e27",
+        "id": "070de965e0764551",
         "type": "tabs",
         "children": [
           {
-            "id": "4a45d46b6cb40a82",
+            "id": "8768bc20227636aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "a18383d1cb98391b",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,16 +178,17 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a45d46b6cb40a82",
+  "active": "8768bc20227636aa",
   "lastOpenFiles": [
-    "Languages/Languages.md",
     "Languages/Go.md",
+    "DSA/Arrays.md",
+    "Languages/Languages.md",
     "Languages",
     "DSA/Bit Manipulation.md",
-    "DSA/Arrays.md",
     "Computer Science.md",
     "Development/App/Flutter/Flutter.md",
     "Development/App/Application Development.md",
