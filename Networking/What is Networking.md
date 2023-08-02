@@ -1,0 +1,1 @@
+Networking is the practice of connecting devices and systems to facilitate communication and data exchange. It plays a crucial role in enabling the internet, cloud computing, and various digital services.
