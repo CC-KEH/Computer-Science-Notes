@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "624534581aefead7",
+        "id": "0ffa23ceac217b05",
         "type": "tabs",
         "children": [
           {
-            "id": "0f40d2512fa8b57a",
+            "id": "8ff2b144a0c7f760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "Languages/Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "Languages/Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking.md",
+                "file": "Languages/Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking.md"
+                "file": "Languages/Go.md"
               }
             }
           },
@@ -143,6 +143,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd17f3b63f53d878",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -182,28 +190,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f40d2512fa8b57a",
+  "active": "f47683db94e4f8cb",
   "lastOpenFiles": [
-    "Networking/What is Networking.md",
-    "Networking/Networking.md",
-    "Networking/Future Trends in Networking.md",
+    "Networking/Protocols.md",
     "Networking/Networking Security.md",
     "Networking/Networking Technologies and Standards.md",
+    "Networking/What is Networking.md",
+    "Networking/Types of Networks.md",
     "Networking/Networking Models.md",
     "Networking/Network Devices.md",
-    "Networking/Types of Networks.md",
-    "Networking/Untitled",
-    "TCP/TCP IP Model.md",
-    "Networking/Networking Models/TCP IP Model.md",
-    "Networking/Protocols.md",
+    "Networking/Future Trends in Networking.md",
+    "Networking/Networking.md",
+    "Languages/Go.md",
+    "Languages/Languages.md",
     "Computer Science.md",
+    "TCP/TCP IP Model.md",
+    "Networking/Untitled",
+    "Networking/Networking Models/TCP IP Model.md",
     "TCP",
     "Networking/Networking Models/OSI Model.md",
     "Networking/Networking Models",
     "Networking Components.md",
-    "Languages/Go.md",
     "DSA/Arrays.md",
-    "Languages/Languages.md",
     "Languages",
     "DSA/Bit Manipulation.md",
     "Development/App/Flutter/Flutter.md",

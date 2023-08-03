@@ -116,13 +116,87 @@ var <slice_name>  = []<datatype>{data, goes, here}  // Creates a Slice
 var slice = []string{"hello","who","am","i","are","you"}
 var index int = 3 // 3rd index element to remove ie "i"
 slice = append(slice[:index], slice[index+1:]...) //#todo explain why use ...
+delete(slice,index) // Another way of deleting
 ```
 
 
 
+## Maps
+Key value pair data structure
+
+```go
+<map_name> = make(map[<key_datatype>]<value_datatype>)
+languages = make(map[string]string) 
+// Creates a languages map with string -> string pair
+languages["js"]= "javascript" // Inserting values
+delete(languages,"js") // Deleting values
+```
+
+**Iterating through map**
+```go
+for key,value := range <map_name>{
+	fmt.Printf("Key is %v and its value is %v",key,value)
+}
+// Incase you want to ignore key or value just write '_' as the name
+```
 
 
+## Structs
+**There is no concept of inheritance, super, parent, child in Go.**
 
+```go
+func main() {
+    arbash := User{"arbash", "arbash@cc.com", false, 21} //Create a user
+    fmt.Println(arbash) // Just prints the values
+    fmt.Printf("Details are: %+v", arbash) //Print key and values 
+}
 
+//Initialisation of Struct
+type User struct {
+    Name   string  //Public variable as Name starts with uppercase
+    Email  string
+    Status bool
+    Age    int
+    num    int     //Private variable as num starts with lowercase
+}
+```
 
+## If - else
+Same as other languages.
+**but not this syntax**
+```go
+if i:=3;i<10{ // Here we are intialising and checking in the same line
+	fmt.Println("Less than")
+}else {
+	fmt.Println("Greater than")
+}
+// Usually use this when handling web requests
+```
+
+## Switch Cases
+Same as other languages.
+however there is a concept of fallthrough
+```go
+switch number {
+    case 1:
+        fmt.Println("Dice value is 1")
+    case 2:
+        fmt.Println("Dice value is 2")
+    case 3:
+        fmt.Println("Dice value is 3")
+        fallthrough
+    case 4:
+        fmt.Println("Dice value is 4")
+        fallthrough
+    case 5:
+        fmt.Println("Dice value is 5")
+    case 6:
+        fmt.Println("Dice value is 6")
+    default:
+        fmt.Println("Default case")
+    }
+```
+here we see fallthrough in  case 3 and 4 what this does is:
+If the value of number is 3 it will not only run the 3rd case but also the case below it i.e. 4th.
+now 4th case also has a fallthrough so it will also cause case5 to run. the program stops after running case5.
 
