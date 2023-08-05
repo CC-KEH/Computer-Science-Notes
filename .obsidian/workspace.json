@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Go.md",
+                "file": "DBMS/Database Management System.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Go.md",
+                "file": "DBMS/Database Management System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Go.md",
+                "file": "DBMS/Database Management System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Go.md"
+                "file": "DBMS/Database Management System.md"
               }
             }
           },
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +190,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f47683db94e4f8cb",
+  "active": "8ff2b144a0c7f760",
   "lastOpenFiles": [
+    "Pasted image 20230805191821.png",
+    "DBMS/DBMS.md",
+    "DBMS/Database Management System.md",
+    "Languages/Go.md",
+    "DBMS",
     "Networking/Protocols.md",
     "Networking/Networking Security.md",
     "Networking/Networking Technologies and Standards.md",
@@ -201,7 +206,6 @@
     "Networking/Network Devices.md",
     "Networking/Future Trends in Networking.md",
     "Networking/Networking.md",
-    "Languages/Go.md",
     "Languages/Languages.md",
     "Computer Science.md",
     "TCP/TCP IP Model.md",
@@ -224,9 +228,6 @@
     "Development/App/React Native",
     "React Native.md",
     "Artificial Intelligence/Artificial Intelligence.md",
-    "Development/Development.md",
-    "Development/Backend/Backend Development.md",
-    "Development/Web/Web Development.md",
     "Development/Pasted image 20230710153808.png"
   ]
 }
