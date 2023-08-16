@@ -14,3 +14,6 @@
 
 ## Bit Manipulation
 [[Bit Manipulation]]
+
+
+## Real world application

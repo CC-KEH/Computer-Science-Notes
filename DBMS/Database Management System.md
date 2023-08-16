@@ -18,4 +18,10 @@ A DBMS is a database itself, along with all the software and functionality. It i
 
 
 
+# DBMS Architecture
 
+1. 3 Schema Architecture
+	1. Physical Level (Lowest level, Physical structure of how data will be stored is designed here)
+	2. Logical/Conceptual level (Defines the relationship among the data, giving meaning to data)
+	3. View Level (Highest level, shown to user, shows only which is to be shown to the user(abstraction))
+	4. 

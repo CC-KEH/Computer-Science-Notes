@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Database Management System.md",
+                "file": "Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Database Management System.md",
+                "file": "Computer Science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/Database Management System.md",
+                "file": "Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Database Management System.md"
+                "file": "Computer Science.md"
               }
             }
           },
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +192,33 @@
   },
   "active": "8ff2b144a0c7f760",
   "lastOpenFiles": [
-    "Pasted image 20230805191821.png",
-    "DBMS/DBMS.md",
+    "Social Network Analysis/Scale free networks.md",
+    "Social Network Analysis/Small world networks.md",
+    "Pasted image 20230816170344.png",
+    "Pasted image 20230816165916.png",
+    "Social Network Analysis/Introduction to network science.md",
+    "Social Network Analysis/Social Network Analysis.md",
+    "Social Network Analysis/Triadic closure.md",
+    "Pasted image 20230816164937.png",
+    "Pasted image 20230816163617.png",
+    "DSA/Graphs/Graphs.md",
+    "DSA/Graphs",
+    "Pasted image 20230816154306.png",
+    "Pasted image 20230816154140.png",
+    "Pasted image 20230816154115.png",
+    "Pasted image 20230816153851.png",
+    "Pasted image 20230816153704.png",
+    "Pasted image 20230816153543.png",
+    "Computer Science.md",
+    "Social Network Analysis",
+    "Artificial Intelligence/Artificial Intelligence.md",
+    "DSA/DSA.md",
     "DBMS/Database Management System.md",
+    "Crypto/Crypto.md",
+    "Crypto",
+    "DBMS/DBMS.md",
+    "DSA/Strings.md",
+    "Data Science/Data Science.md",
     "Languages/Go.md",
     "DBMS",
     "Networking/Protocols.md",
@@ -207,27 +231,11 @@
     "Networking/Future Trends in Networking.md",
     "Networking/Networking.md",
     "Languages/Languages.md",
-    "Computer Science.md",
-    "TCP/TCP IP Model.md",
     "Networking/Untitled",
-    "Networking/Networking Models/TCP IP Model.md",
     "TCP",
-    "Networking/Networking Models/OSI Model.md",
     "Networking/Networking Models",
-    "Networking Components.md",
-    "DSA/Arrays.md",
     "Languages",
-    "DSA/Bit Manipulation.md",
-    "Development/App/Flutter/Flutter.md",
-    "Development/App/Application Development.md",
-    "Development/App/React Native/React Native.md",
     "Development/Web/Javascript",
-    "Development/Web/Vue",
-    "Development/Web/Angular",
-    "Development/App/Flutter",
-    "Development/App/React Native",
-    "React Native.md",
-    "Artificial Intelligence/Artificial Intelligence.md",
-    "Development/Pasted image 20230710153808.png"
+    "Development/Web/Vue"
   ]
 }
