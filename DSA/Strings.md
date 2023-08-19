@@ -23,3 +23,9 @@ Returns the index of the first occurrence of the specified character or substrin
 #### 7. `strip()`
 Removes leading and trailing whitespace from the string.
 ( is "Unicode-aware" evolution of `trim()`. Meaning `trim()` removes only characters <= U+0020 (space) `strip()` removes all Unicode whitespace characters (but not all control characters like \0)
+
+
+
+## Important Terms:
+1. Subsets: [a,b,c] => [a,b,c,ab,ac,bc,abc] (Order cannot be changed i.e. [ca] not possible)
+2.  
