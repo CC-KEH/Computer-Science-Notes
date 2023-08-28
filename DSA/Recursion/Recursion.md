@@ -28,7 +28,7 @@ Recursion is a programming technique where a function calls itself to solve a pr
 ## Important Patterns in Recursion 
 
 1. [[Subsets]]
-2. [[Subsequence]] 
+2. [[Subsequence 1]] 
 3. Combinations
 4. Permutations
 

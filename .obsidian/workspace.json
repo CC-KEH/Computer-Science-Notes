@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ce03cebd63fda75b",
+        "id": "38edaf0956583237",
         "type": "tabs",
         "children": [
           {
-            "id": "df7abe4adc76606a",
+            "id": "455deeb7577da1e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Recursion/Recursion.md",
+                "file": "DSA/Stacks and Queues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2891d60b1354463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Network Analysis/Clustering and Community Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 221.5
   },
   "right": {
     "id": "c162cc94527f24b4",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Recursion/Recursion.md",
+                "file": "Social Network Analysis/Clustering and Community Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Recursion/Recursion.md",
+                "file": "Social Network Analysis/Clustering and Community Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Recursion/Recursion.md"
+                "file": "Social Network Analysis/Clustering and Community Structure.md"
               }
             }
           },
@@ -174,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,53 +203,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f47683db94e4f8cb",
+  "active": "e2891d60b1354463",
   "lastOpenFiles": [
-    "DSA/Recursion/Subsets.md",
+    "Social Network Analysis/Introduction to network science.md",
+    "Social Network Analysis/Clustering and Community Structure.md",
+    "Social Network Analysis/Scale free networks.md",
+    "Social Network Analysis/Small world networks.md",
+    "Social Network Analysis/Social Network Analysis.md",
+    "DSA/Notations.md",
+    "Excalidraw/Drawing_2023-08-28 16.16.26.excalidraw.md",
+    "DSA/Stacks and Queues.md",
+    "Excalidraw/Drawing 2023-08-28 16.14.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 16.13.57.excalidraw.md",
+    "Excalidraw",
+    "DSA/Questions.md",
+    "Social Network Analysis/Hubs.md",
+    "Statistics/Distributions/Power Law Distribution.md",
+    "Pasted image 20230820192728.png",
+    "Pasted image 20230820192604.png",
+    "Statistics/Distributions",
+    "Statistics",
+    "Social Network Analysis/Distributions",
+    "Pasted image 20230820192416.png",
     "DSA/Recursion/Subsequence.md",
+    "DSA/Recursion/Subsequence 1.md",
     "DSA/Recursion/Recursion.md",
+    "DSA/Recursion/Subsets.md",
     "DSA/Recursion/Handling Answers in Recursion.md",
     "DSA/Recursion/Recursion In Dynamic Programming.md",
     "DSA/Recursion/Handling Variables in Recursion.md",
     "Computer Science.md",
     "DSA/Binary Search.md",
-    "Subsequence.md",
     "DSA/Recursion",
     "DSA/Strings.md",
     "DSA/Dynamic Programming.md",
     "DBMS/Database Management System.md",
     "DBMS/Data Model.md",
-    "DBMS/Three Scheme Architecture.md",
     "Pasted image 20230816180902.png",
-    "Social Network Analysis/Scale free networks.md",
-    "Social Network Analysis/Small world networks.md",
     "Pasted image 20230816170344.png",
     "Pasted image 20230816165916.png",
-    "Social Network Analysis/Introduction to network science.md",
-    "Social Network Analysis/Social Network Analysis.md",
-    "Social Network Analysis/Triadic closure.md",
     "Pasted image 20230816164937.png",
     "Pasted image 20230816163617.png",
-    "DSA/Graphs/Graphs.md",
     "DSA/Graphs",
     "Pasted image 20230816154306.png",
     "Pasted image 20230816154140.png",
-    "Pasted image 20230816154115.png",
-    "Pasted image 20230816153851.png",
-    "Pasted image 20230816153704.png",
     "Social Network Analysis",
-    "Artificial Intelligence/Artificial Intelligence.md",
-    "DSA/DSA.md",
-    "Crypto/Crypto.md",
     "Crypto",
-    "DBMS/DBMS.md",
-    "Data Science/Data Science.md",
-    "Languages/Go.md",
     "DBMS",
-    "Networking/Untitled",
-    "TCP",
-    "Networking/Networking Models",
-    "Languages",
-    "Development/Web/Javascript"
+    "Networking/Untitled"
   ]
 }

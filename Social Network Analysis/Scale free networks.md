@@ -4,7 +4,7 @@ Scale-free networks are a type of network structure that exhibit a particular di
 
 1. **Power Law Distribution:** The degree distribution follows a power law, which means that the probability of a node having a certain number of connections decreases rapidly as the number of connections increases. In other words, a small number of nodes have a disproportionately large number of connections.
     
-2. **Hubs:** Scale-free networks are characterized by the presence of hubs, which are nodes with an exceptionally high number of connections compared to other nodes in the network. Hubs play a critical role in maintaining the network's structure and connectivity.
+2. **[[Hubs]]:** Scale-free networks are characterized by the presence of hubs, which are nodes with an exceptionally high number of connections compared to other nodes in the network. Hubs play a critical role in maintaining the network's structure and connectivity.
     
 3. **Resilience:** Scale-free networks tend to be more resilient to random node failures compared to networks with a more uniform degree distribution. However, they can be vulnerable to targeted attacks on hubs, as removing a hub can disrupt many connections.
     
@@ -18,6 +18,7 @@ Power law distributions are often associated with social media networks and othe
 **[[Power Law Distribution]]:**
 - Power law distributions are used to describe networks where a small number of nodes (hubs) have a disproportionately large number of connections, while most nodes have relatively few connections.
 - In the context of social media networks, power law distributions can reflect the presence of a small number of highly influential users (hubs) who accumulate a large number of followers, while the majority of users have fewer connections.
+
 
 **[[Poisson Distribution]]:**
 - Poisson distributions are often used for networks where connections are distributed more uniformly, and no single node has a significantly higher number of connections than others.
