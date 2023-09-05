@@ -60,4 +60,32 @@ In this example, DP avoids redundant calculations by storing previously computed
 - **Clarity**: DP solutions are often more intuitive and easier to understand than brute-force or recursive approaches.
 - **Optimization**: DP can be used to optimize various problems, such as finding the shortest path, maximizing profits, or minimizing costs.
 
-Dynamic Programming is a powerful technique used in various domains, including computer science, economics, and operations research, to efficiently solve optimization problems with overlapping subproblems and optimal substructure. Understanding the principles and steps of DP is essential for tackling a wide range of algorithmic challenges.
+
+
+## Creating Recurrence Relation
+1. Represent the problem in terms of index
+2. Do all the possible stuff on that index according to the problem statement
+3. Now do what is asked on that answer, min/max/sum/count or anything
+
+
+## 3 Steps for converting Recursion to Dynamic Programming
+1. Declare an array to store the answers from the below calls.
+	```python
+	dp = [] // size n+1
+	```
+2. Before returning the value from below call, store it in the array, then return it.
+	```python
+	dp.append(ans)
+	return ans
+	```
+3. check just after the base condition if the answer for current call already exists in the array, if it does then simply return, else only then continue to the below code.
+	```python
+	if(base):
+		do something
+		return
+	if(dp[n] is not None):
+		return dp[n]
+	
+	else:
+		computation code
+	```
