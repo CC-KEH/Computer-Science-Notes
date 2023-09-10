@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md"
+                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md"
               }
             }
           },
@@ -192,9 +192,15 @@
   },
   "active": "455deeb7577da1e3",
   "lastOpenFiles": [
-    "Data Science/Data Science.md",
+    "Pasted image 20230910173622.png",
+    "Pasted image 20230910164238.png",
+    "Artificial Intelligence/NLP/Natural Language Processing.md",
+    "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+    "Artificial Intelligence/NLP/Text Representation",
+    "Artificial Intelligence/NLP/stop words.md",
+    "Artificial Intelligence/NLP",
     "Artificial Intelligence/Artificial Intelligence.md",
-    "Artificial Intelligence/Natural Language Processing.md",
+    "Data Science/Data Science.md",
     "DSA/Arrays.md",
     "DSA/Bit Manipulation.md",
     "DSA/Dynamic Programming.md",
@@ -215,10 +221,7 @@
     "Social Network Analysis/Scale free networks.md",
     "Social Network Analysis/Social Network Analysis.md",
     "Excalidraw/Drawing_2023-08-28 16.16.26.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 16.14.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 16.13.57.excalidraw.md",
     "Excalidraw",
-    "Social Network Analysis/Hubs.md",
     "Pasted image 20230820192728.png",
     "Pasted image 20230820192604.png",
     "Statistics/Distributions",
@@ -233,10 +236,7 @@
     "Pasted image 20230816163617.png",
     "DSA/Graphs",
     "Pasted image 20230816154306.png",
-    "Pasted image 20230816154140.png",
     "Social Network Analysis",
-    "Crypto",
-    "DBMS",
-    "Networking/Untitled"
+    "Crypto"
   ]
 }
