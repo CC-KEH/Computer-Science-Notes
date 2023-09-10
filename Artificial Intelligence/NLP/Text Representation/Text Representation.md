@@ -6,8 +6,6 @@
 2. **Importance**:
    - Text representation is a crucial step in NLP because most machine learning algorithms and models require numeric inputs. It allows computers to process and analyze textual data, extract patterns, and make predictions or classifications.
 
-Certainly! Here are comprehensive notes on various text representation techniques in natural language processing (NLP), along with their definitions, pros, and cons, aimed at helping newcomers understand them:
-
 ## Text Representation Techniques in NLP
 
 #### 1. Bag of Words (BoW):
@@ -131,5 +129,8 @@ Certainly! Here are comprehensive notes on various text representation technique
 ### One Hot Encoding
 ![[Pasted image 20230910164238.png]]
 
+### BoW
+
+### Word2Vec
 ### TF-IDF
 ![[Pasted image 20230910173622.png]]
