@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+                "file": "Computer Science/Social Network Analysis/Introduction to network science.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+                "file": "Computer Science/Social Network Analysis/Introduction to network science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+                "file": "Computer Science/Social Network Analysis/Introduction to network science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence/NLP/Text Representation/Text Representation.md"
+                "file": "Computer Science/Social Network Analysis/Introduction to network science.md"
               }
             }
           },
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,50 +192,51 @@
   },
   "active": "455deeb7577da1e3",
   "lastOpenFiles": [
-    "Artificial Intelligence/NLP/Natural Language Processing.md",
-    "Artificial Intelligence/NLP/Text Representation/Text Representation.md",
-    "Pasted image 20230910173622.png",
-    "Pasted image 20230910164238.png",
-    "Artificial Intelligence/NLP/Text Representation",
-    "Artificial Intelligence/NLP/stop words.md",
-    "Artificial Intelligence/NLP",
-    "Artificial Intelligence/Artificial Intelligence.md",
-    "Data Science/Data Science.md",
-    "DSA/Arrays.md",
-    "DSA/Bit Manipulation.md",
-    "DSA/Dynamic Programming.md",
-    "DSA/Binary Search.md",
-    "DSA/Sliding Window.md",
-    "DSA/Notations.md",
-    "DSA/DSA.md",
-    "DSA/Stacks and Queues.md",
-    "DSA/Heaps and Priority Queues.md",
-    "DSA/Questions.md",
-    "DSA/Graphs/Graphs.md",
-    "DSA/Graphs/Graph Traversal.md",
-    "DSA/Graphs/Graph Representation.md",
-    "Social Network Analysis/Introduction to network science.md",
-    "Social Network Analysis/Triadic closure.md",
-    "Social Network Analysis/Small world networks.md",
-    "Social Network Analysis/Clustering and Community Structure.md",
-    "Social Network Analysis/Scale free networks.md",
-    "Social Network Analysis/Social Network Analysis.md",
-    "Excalidraw/Drawing_2023-08-28 16.16.26.excalidraw.md",
+    "Computer Science/Social Network Analysis/Hubs.md",
+    "Computer Science/Social Network Analysis/Introduction to network science.md",
+    "Computer Science/Social Network Analysis/Clustering and Community Structure.md",
+    "Computer Science/Pasted image 20230805191821.png",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Data Science/Data Science.md",
+    "Computer Science/Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+    "Computer Science",
+    "Computer Science/Artificial Intelligence/NLP/Natural Language Processing.md",
+    "Computer Science/Pasted image 20230910173622.png",
+    "Computer Science/Pasted image 20230910164238.png",
+    "Computer Science/Artificial Intelligence/NLP/Text Representation",
+    "Computer Science/Artificial Intelligence/NLP/stop words.md",
+    "Computer Science/Artificial Intelligence/NLP",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Computer Science/DSA/Arrays.md",
+    "Computer Science/DSA/Bit Manipulation.md",
+    "Computer Science/DSA/Dynamic Programming.md",
+    "Computer Science/DSA/Binary Search.md",
+    "Computer Science/DSA/Sliding Window.md",
+    "Computer Science/DSA/Notations.md",
+    "Computer Science/DSA/DSA.md",
+    "Computer Science/DSA/Stacks and Queues.md",
+    "Computer Science/DSA/Heaps and Priority Queues.md",
+    "Computer Science/DSA/Questions.md",
+    "Computer Science/DSA/Graphs/Graphs.md",
+    "Computer Science/DSA/Graphs/Graph Traversal.md",
+    "Computer Science/DSA/Graphs/Graph Representation.md",
+    "Computer Science/Social Network Analysis/Triadic closure.md",
+    "Computer Science/Social Network Analysis/Small world networks.md",
+    "Computer Science/Social Network Analysis/Scale free networks.md",
+    "Computer Science/Social Network Analysis/Social Network Analysis.md",
     "Excalidraw",
-    "Pasted image 20230820192728.png",
-    "Pasted image 20230820192604.png",
-    "Statistics/Distributions",
-    "Statistics",
+    "Computer Science/Pasted image 20230820192728.png",
+    "Computer Science/Pasted image 20230820192604.png",
+    "Computer Science/Statistics/Distributions",
+    "Computer Science/Statistics",
     "Social Network Analysis/Distributions",
-    "Pasted image 20230820192416.png",
-    "DSA/Recursion",
-    "Pasted image 20230816180902.png",
-    "Pasted image 20230816170344.png",
-    "Pasted image 20230816165916.png",
-    "Pasted image 20230816164937.png",
-    "Pasted image 20230816163617.png",
-    "DSA/Graphs",
-    "Social Network Analysis",
-    "Crypto"
+    "Computer Science/Pasted image 20230820192416.png",
+    "Computer Science/DSA/Recursion",
+    "Computer Science/Pasted image 20230816180902.png",
+    "Computer Science/Pasted image 20230816170344.png",
+    "Computer Science/Pasted image 20230816165916.png",
+    "Computer Science/Pasted image 20230816164937.png",
+    "Computer Science/DSA/Graphs",
+    "Computer Science/Social Network Analysis"
   ]
 }

@@ -72,7 +72,7 @@
 ### After analyzing the networks, we came across some observations
 1. [[Scale free networks]] 
 2. [[Small world networks]]
-3. [[Clustering and community structure]]
+3. [[Clustering and Community Structure]]
 4. Robustness to random node failure
 5. Cascading effect
 6. Vulnerability to cascading failures

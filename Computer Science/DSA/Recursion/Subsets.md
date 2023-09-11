@@ -1,5 +1,5 @@
 ## Patterns in Subsets Problems:
-### [[DSA/Recursion/Subsequence|Same as Subsequence]]
+### [[Subsequence|Same as Subsequence]]
 
 ## Generating Subsets using Recursion
 ```java
