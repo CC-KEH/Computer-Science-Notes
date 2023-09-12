@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "translucency": false,
-  "cssTheme": "Neo"
+  "cssTheme": "Neo",
+  "baseFontSize": 15
 }
