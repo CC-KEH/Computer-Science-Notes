@@ -11,11 +11,9 @@
             "id": "657824e7c5c63efa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Pasted image 20230912190149.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
+                "file": "Computer Science/Pasted image 20230912190149.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
+                "file": "Computer Science/Pasted image 20230912190149.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md"
+                "file": "Computer Science/Pasted image 20230912190149.png"
               }
             }
           },
@@ -200,12 +198,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "657824e7c5c63efa",
+  "active": "ab0f3f792ad46378",
   "lastOpenFiles": [
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised Learning.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement Learning.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Introduction to Machine Learning.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Other machine learning topics.md",
     "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
@@ -213,14 +211,14 @@
     "Computer Science/COA/COA.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Machine Learning",
-    "Pasted image 20230912204814.png",
-    "Pasted image 20230912204526.png",
+    "Computer Science/Pasted image 20230912204814.png",
+    "Computer Science/Pasted image 20230912204526.png",
     "Computer Science/Artificial Intelligence/Some terms to remember.md",
-    "Pasted image 20230912203128.png",
+    "Computer Science/Pasted image 20230912203128.png",
     "Computer Science/Artificial Intelligence/Deep Learning/Introduction to Deep Learning.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms",
-    "Pasted image 20230912191717.png",
-    "Pasted image 20230912191648.png",
+    "Computer Science/Pasted image 20230912191717.png",
+    "Computer Science/Pasted image 20230912191648.png",
     "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Other Deep Learning Models.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Recurrent Neural Networks (RNNs).md",
@@ -228,7 +226,7 @@
     "Computer Science/Artificial Intelligence/Deep Learning/Generative Adversarial Networks (GANs).md",
     "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
     "Computer Science/Artificial Intelligence/Deep Learning",
-    "Pasted image 20230912190149.png",
+    "Computer Science/Pasted image 20230912190149.png",
     "Computer Science/Networking/Networking Models.md",
     "Computer Science/Development/Development.md",
     "Computer Science/Operating System/Operating System.md",
