@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+                "file": "Computer Science/Statistics/Distributions/Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+                "file": "Computer Science/Statistics/Distributions/Distributions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+                "file": "Computer Science/Statistics/Distributions/Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md"
+                "file": "Computer Science/Statistics/Distributions/Distributions.md"
               }
             }
           },
@@ -202,8 +202,9 @@
   },
   "active": "e8db5545b3f01ded",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+    "Computer Science/Statistics/Distributions/Distributions.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Difference.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Other machine learning topics.md",
@@ -240,7 +241,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning",
     "Computer Science/Networking/Networking Models.md",
     "Computer Science/Development/Development.md",
-    "Computer Science/Operating System/Operating System.md",
     "Computer Science/Pasted image 20230805191821.png",
     "Computer Science",
     "Computer Science/Pasted image 20230910173622.png",
