@@ -6,17 +6,6 @@
 - The gradient of a function is a vector that points in the direction of the steepest descent.
 - The gradient descent algorithm can be used to find the minimum of any function, but it is most commonly used in machine learning to train models.
 
-## How Gradient Descent Works in AI
-
-- In machine learning, the function that we are trying to minimize is called the cost function.
-- The cost function measures how well the model is performing.
-- The goal of gradient descent is to find the values of the model's parameters that minimize the cost function.
-- The parameters of the model are the weights and biases of the network.
-- The gradient descent algorithm starts by randomly initializing the parameters of the model.
-- Then, it calculates the gradient of the cost function with respect to the parameters.
-- The gradient points in the direction of the steepest descent.
-- The algorithm then updates the parameters in the direction of the gradient.
-- This process is repeated until the cost function reaches a minimum.
 
 ### Advantages and Disadvantages of Gradient Descent
 
@@ -57,9 +46,14 @@ xn+1​ = xn - α * ∇f(xn​)
 - α is the learning rate
 - ∇f(xn​) is the gradient of the cost function with respect to the parameters at the current iteration
 
+## When should I use Gradient descent?
+- Works well even when n is massive (millions)
+- Better suited to big data
+- What is a big n though
+- 100 or even a 1000 is still (relativity) small
+- If n is 10 000 then look at using gradient descent
 
-
-### Effects of Learning rate on Gradient Descent
+## Effects of Learning rate on Gradient Descent
 ![[Pasted image 20230912203128.png]]
 
 

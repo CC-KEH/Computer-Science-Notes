@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d28c2c5f4b25b995",
+        "id": "4b8068f44c4f90d4",
         "type": "tabs",
         "children": [
           {
-            "id": "657824e7c5c63efa",
+            "id": "e8db5545b3f01ded",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Pasted image 20230912190149.png"
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Pasted image 20230912190149.png",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Pasted image 20230912190149.png",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Pasted image 20230912190149.png"
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md"
               }
             }
           },
@@ -198,18 +200,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab0f3f792ad46378",
+  "active": "e8db5545b3f01ded",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Introduction to Machine Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Difference.md",
+    "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Other machine learning topics.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Support Vector Machines (SVMs).md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised",
+    "Pasted image 20230913125603.png",
+    "Computer Science/Artificial Intelligence/Machine Learning/Introduction to Machine Learning.md",
+    "Computer Science/Pasted image 20230912190149.png",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement/Reinforcement Learning.md",
     "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
     "Computer Science/Data Science/Data Science.md",
     "Computer Science/COA/COA.md",
-    "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Machine Learning",
     "Computer Science/Pasted image 20230912204814.png",
     "Computer Science/Pasted image 20230912204526.png",
@@ -226,25 +238,15 @@
     "Computer Science/Artificial Intelligence/Deep Learning/Generative Adversarial Networks (GANs).md",
     "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
     "Computer Science/Artificial Intelligence/Deep Learning",
-    "Computer Science/Pasted image 20230912190149.png",
     "Computer Science/Networking/Networking Models.md",
     "Computer Science/Development/Development.md",
     "Computer Science/Operating System/Operating System.md",
-    "Computer Science/Networking/Networking Technologies and Standards.md",
-    "Computer Science/DSA/Arrays.md",
-    "Computer Science/Networking/Future Trends in Networking.md",
-    "Computer Science/Statistics/Distributions/Power Law Distribution.md",
-    "Computer Science/Languages/Go.md",
     "Computer Science/Pasted image 20230805191821.png",
     "Computer Science",
     "Computer Science/Pasted image 20230910173622.png",
     "Computer Science/Pasted image 20230910164238.png",
     "Computer Science/Artificial Intelligence/NLP/Text Representation",
     "Computer Science/Artificial Intelligence/NLP",
-    "Excalidraw",
-    "Computer Science/Pasted image 20230820192728.png",
-    "Computer Science/Statistics/Distributions",
-    "Computer Science/Statistics",
-    "Social Network Analysis/Distributions"
+    "Excalidraw"
   ]
 }

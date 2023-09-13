@@ -5,7 +5,7 @@ Machine learning is a branch of artificial intelligence (AI) that allows compute
 
 # Index
 1. [[Introduction to machine learning]]
-2. [[Supervised learning]]
+2. [[Supervised Learning]]
 3. [[Unsupervised Learning]]
-4. [[Reinforcement learning]]
+4. [[Reinforcement Learning]]
 5. [[Other machine learning topics]]
