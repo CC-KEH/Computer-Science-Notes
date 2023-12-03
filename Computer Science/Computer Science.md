@@ -2,6 +2,9 @@
 ## Artificial Intelligence
 [[Artificial Intelligence|Artificial Intelligence]]
 
+# Cloud Computing
+[[Cloud Computing]]
+
 ## COA
 [[COA|Computer Organisation and Architecture]]
 
@@ -17,11 +20,14 @@
 ## Networking
 [[Networking|Networking]]
 
-## Social Network Analysis
-[[Social Network Analysis]]
-
 ## Operating System
 [[Operating System|Operating Systems]]
 
 ## Programming
-[[Languages]]
+[[Programming Languages]]
+
+## Social Network Analysis
+[[Social Network Analysis]]
+
+# Software Development
+[[Software Development]]
