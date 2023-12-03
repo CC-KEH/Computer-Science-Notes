@@ -1,4 +1,3 @@
-# Text Representation
 
 1. **Definition**:
    - Text representation, in the context of natural language processing (NLP), refers to the process of converting raw text data into a numerical format that can be used for various machine learning and NLP tasks.

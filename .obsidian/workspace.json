@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8068f44c4f90d4",
+        "id": "69e04ad7949b5a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8db5545b3f01ded",
+            "id": "88637e839a1fa25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Statistics/Distributions/Distributions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,7 @@
       {
         "id": "afa9ae2c135e9f7b",
         "type": "tabs",
-        "dimension": 57.986111111111114,
+        "dimension": 70.23809523809523,
         "children": [
           {
             "id": "dee0d7033d7c5a53",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Statistics/Distributions/Distributions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Statistics/Distributions/Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Statistics/Distributions/Distributions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +162,7 @@
       {
         "id": "a18383d1cb98391b",
         "type": "tabs",
-        "dimension": 42.01388888888889,
+        "dimension": 29.761904761904763,
         "children": [
           {
             "id": "80679ea0679c89b6",
@@ -184,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,51 +192,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e8db5545b3f01ded",
+  "active": "88637e839a1fa25c",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
-    "Computer Science/Statistics/Distributions/Distributions.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Deconvolution.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Segmentations.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Deep Neural Networks.md",
+    "Pasted image 20231203140326.png",
+    "Pasted image 20231203140158.png",
+    "Pasted image 20231203135430.png",
+    "Pasted image 20231203135305.png",
+    "Pasted image 20231203134613.png",
+    "Pasted image 20231203134002.png",
+    "Pasted image 20231203133330.png",
+    "Computer Science/Artificial Intelligence/Deep Learning/Other Deep Learning Models.md",
+    "Pasted image 20231203131332.png",
+    "Pasted image 20231203131209.png",
+    "Pasted image 20231203131202.png",
+    "Computer Science/Artificial Intelligence/Deep Learning/Activation Function.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Recurrent Neural Networks (RNNs).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Introduction to Deep Learning.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Generative Adversarial Networks (GANs).md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Support Vector Machines (SVMs).md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Difference.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement/Reinforcement Learning.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Transformers.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Resnets.md",
+    "Computer Science/Artificial Intelligence/NLP/Text Representation/Text Representation.md",
+    "Computer Science/Artificial Intelligence/NLP/Natural Language Processing.md",
+    "Computer Science/Statistics/Distributions/Distributions.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Other machine learning topics.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Support Vector Machines (SVMs).md",
     "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised",
-    "Pasted image 20230913125603.png",
-    "Computer Science/Artificial Intelligence/Machine Learning/Introduction to Machine Learning.md",
-    "Computer Science/Pasted image 20230912190149.png",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement/Reinforcement Learning.md",
-    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Computer Science/Data Science/Data Science.md",
-    "Computer Science/COA/COA.md",
     "Computer Science/Artificial Intelligence/Machine Learning",
-    "Computer Science/Pasted image 20230912204814.png",
-    "Computer Science/Pasted image 20230912204526.png",
-    "Computer Science/Artificial Intelligence/Some terms to remember.md",
-    "Computer Science/Pasted image 20230912203128.png",
-    "Computer Science/Artificial Intelligence/Deep Learning/Introduction to Deep Learning.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms",
-    "Computer Science/Pasted image 20230912191717.png",
-    "Computer Science/Pasted image 20230912191648.png",
-    "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Other Deep Learning Models.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Recurrent Neural Networks (RNNs).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Generative Adversarial Networks (GANs).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
     "Computer Science/Artificial Intelligence/Deep Learning",
-    "Computer Science/Networking/Networking Models.md",
-    "Computer Science/Development/Development.md",
-    "Computer Science/Pasted image 20230805191821.png",
     "Computer Science",
-    "Computer Science/Pasted image 20230910173622.png",
-    "Computer Science/Pasted image 20230910164238.png",
     "Computer Science/Artificial Intelligence/NLP/Text Representation",
     "Computer Science/Artificial Intelligence/NLP",
     "Excalidraw"

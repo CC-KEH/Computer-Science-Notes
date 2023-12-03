@@ -40,3 +40,4 @@ Deep learning is a subfield of machine learning that uses artificial neural netw
 # References
 1. [3Blue1Brown What is neural network?](https://youtu.be/aircAruvnKk?si=fkp3UVtGXmP6PIFI)
 2. [Krish Naik Course on Deep Learning](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&si=NFYckO5kxcEgp_6i)
+3. [CampusX](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=ImNMRJ9P7xMIFQMc)
