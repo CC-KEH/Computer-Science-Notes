@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "a18383d1cb98391b",
@@ -202,9 +202,11 @@
   },
   "active": "2a8a6590a7a0f4b4",
   "lastOpenFiles": [
+    "Computer Science/Software Development/Agile Methodology.md",
+    "Computer Science/Software Development/Security.md",
+    "Computer Science/Software Development/DevOps/DevOps.md",
     "Computer Science/Software Development/DevOps/Continuous Deployment (CD).md",
     "Computer Science/Software Development/DevOps/Continuous Integration (CI).md",
-    "Computer Science/Software Development/DevOps/DevOps.md",
     "Computer Science/Software Development/DevOps/Configuration Management.md",
     "Computer Science/Software Development/DevOps/Continuous Testing.md",
     "Computer Science/Software Development/DevOps/MLOps.md",
@@ -230,8 +232,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Deconvolution.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Activation Function.md",
     "Computer Science/Cloud Computing",
     "Computer Science/Software Development",
     "Computer Science/Pasted image 20231203163347.png",
