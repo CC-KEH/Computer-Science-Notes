@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md"
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md"
               }
             }
           },
@@ -202,10 +202,14 @@
   },
   "active": "22d8f1a47597159c",
   "lastOpenFiles": [
+    "Pasted image 20231206234613.png",
+    "Pasted image 20231206233915.png",
+    "Pasted image 20231206233630.png",
+    "Pasted image 20231206233619.png",
+    "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
     "Pasted image 20231206193103.png",
     "Pasted image 20231206191944.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
-    "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
     "Computer Science/Artificial Intelligence/Regularization/Overfitting vs Underfitting.md",
     "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
     "Pasted image 20231206181612.png",
@@ -218,12 +222,8 @@
     "Regularization.md",
     "Pasted image 20231206174042.png",
     "Pasted image 20231206174029.png",
-    "Pasted image 20231206173922.png",
-    "1686825007300.svg",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Backpropagation.md",
     "Computer Science/Artificial Intelligence/Regularization",
-    "Pasted image 20231206173058.png",
-    "Pasted image 20231206173041.png",
     "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
     "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",

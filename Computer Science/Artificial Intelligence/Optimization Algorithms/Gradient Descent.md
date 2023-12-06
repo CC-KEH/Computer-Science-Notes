@@ -63,8 +63,11 @@ xn+1​ = xn - α * ∇f(xn​)
 - There are many different types of gradient descent algorithms.
 - Some of the most common types are:
     - **Stochastic gradient descent:** If you use a single observation to calculate the cost function it is known as Stochastic Gradient Descent, commonly abbreviated as SGD. We pass a single observation at a time, calculate the cost and update the parameters.
-    - **Mini-batch gradient descent:** This is a type of gradient descent takes a subset of the entire dataset to calculate the cost function.
+	    - Pseudocode![[Pasted image 20231206233915.png]]
+    - **Mini-batch gradient descent:** This is a type of gradient descent takes a subset of the entire dataset to calculate the cost function. mixture of Stochastic and Batch Gradient Descent.
+	    - Pseudocode![[Pasted image 20231206234613.png]]
     - **Batch gradient descent:** Also called as vanilla gradient descent. Let’s say there are a total of ‘m’ observations in a data set and we use all these observations to calculate the cost function J, then this is known as Batch Gradient Descent. This is a type of gradient descent that updates the parameters after all of the training set i.e. epoch, that means parameters will be updated only once per [[Some terms to remember|epoch]].
+	    - Pseudocode![[Pasted image 20231206233630.png]]
 - The choice of gradient descent algorithm depends on the specific problem being solved.
 
 |Algorithm   | Updates parameters after  | Stability  | Speed  |
