@@ -7,7 +7,7 @@ Deep learning is a subfield of machine learning that uses artificial neural netw
 1. [[Introduction to Deep Learning]]
 2. [[Artificial Neural Networks]]
 3. [[Convolutional Neural Networks (CNNs)]]
-4. [[Recurrent Neural Networks (RNNs)]]
+4. [[Recurrent Neural Networks (RNN)]]
 5. [[Resnets]]
 6. [[Generative Adversarial Networks (GANs)]]
 7. [[Other Deep Learning Models]]

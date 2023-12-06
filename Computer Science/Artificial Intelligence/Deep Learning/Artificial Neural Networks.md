@@ -18,14 +18,18 @@ Neural networks are a class of machine learning models inspired by the structure
 - **Biases:** Offsets that allow the model to represent patterns even when all inputs are zero.
 
 ## Some Common Architecture Types
-- **Feedforward Neural Networks (FNN)**
-- **Recurrent Neural Networks (RNN)**
-- **Convolutional Neural Networks (CNN)**
-- **Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)**
-- **Transformer**
-## Training Process
+- **[[McCulloch-Pitts Neuron (MP)]]**
+- **[[Rosenblatt Neuron (Perceptron)]]**
+- **[[Feedforward Neural Networks (FNN)]]**
+- **[[Recurrent Neural Networks (RNN)]]**
+- **[[Convolutional Neural Networks (CNN)]]**
+- **[[Long Short-Term Memory (LSTM)]] and [[Gated Recurrent Unit (GRU)]]**
+- **[[Transformers]]**
 
-### Backpropagation
+
+
+## Training Process
+### [[Backpropagation]]
 - Optimization algorithm used to minimize the error between predicted and actual outputs.
 - Involves calculating gradients and adjusting weights and biases accordingly.
 
