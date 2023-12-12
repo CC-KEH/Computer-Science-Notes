@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8bfe817908cf9cf",
+        "id": "cbfedfd287fe6f16",
         "type": "tabs",
         "children": [
           {
-            "id": "22d8f1a47597159c",
+            "id": "55d6181e81db92d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,28 +192,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22d8f1a47597159c",
+  "active": "55d6181e81db92d5",
   "lastOpenFiles": [
-    "Pasted image 20231206234613.png",
-    "Pasted image 20231206233915.png",
-    "Pasted image 20231206233630.png",
-    "Pasted image 20231206233619.png",
+    "Computer Science/1686825007300.svg",
+    "Regularization.md",
+    "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
+    "Computer Science/Pasted image 20231206234613.png",
+    "Computer Science/Pasted image 20231206233915.png",
+    "Computer Science/Pasted image 20231206233630.png",
+    "Computer Science/Pasted image 20231206233619.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
-    "Pasted image 20231206193103.png",
-    "Pasted image 20231206191944.png",
+    "Computer Science/Pasted image 20231206193103.png",
+    "Computer Science/Pasted image 20231206191944.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
     "Computer Science/Artificial Intelligence/Regularization/Overfitting vs Underfitting.md",
     "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
-    "Pasted image 20231206181612.png",
+    "Computer Science/Pasted image 20231206181612.png",
     "Computer Science/Artificial Intelligence/Regularization/Early Stopping.md",
     "Computer Science/Artificial Intelligence/Regularization/Data Augmentation.md",
     "Computer Science/Artificial Intelligence/Regularization/Dropout.md",
-    "Pasted image 20231206175728.png",
+    "Computer Science/Pasted image 20231206175728.png",
     "Computer Science/Artificial Intelligence/Regularization/Lasso Regression (L1).md",
-    "Pasted image 20231206174731.png",
-    "Regularization.md",
-    "Pasted image 20231206174042.png",
-    "Pasted image 20231206174029.png",
+    "Computer Science/Pasted image 20231206174731.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Backpropagation.md",
     "Computer Science/Artificial Intelligence/Regularization",
     "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
@@ -238,7 +230,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Feedforward Neural Networks (FNN).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Transformers.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
     "Computer Science/Artificial Intelligence/Preprocessing",
