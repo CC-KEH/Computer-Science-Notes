@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfedfd287fe6f16",
+        "id": "f3f5bb1674f97ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "55d6181e81db92d5",
+            "id": "a45cb51395eb726b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Science/Data Science.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Data Science/Data Science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Data Science/Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Data Science/Data Science.md"
+              }
             }
           },
           {
@@ -192,8 +200,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55d6181e81db92d5",
+  "active": "a45cb51395eb726b",
   "lastOpenFiles": [
+    "Pasted image 20231218162403.png",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Computer Science/Data Science/Data Exploration and Visualization.md",
+    "Computer Science/Data Science/Data Science.md",
+    "Computer Science/Data Science/Data Collection and Cleaning.md",
+    "Pasted image 20231218162034.png",
+    "Pasted image 20231218162027.png",
+    "Computer Science/Data Science/Introduction to Data Science.md",
+    "Pasted image 20231218161348.png",
+    "Computer Science/Data Science/Data Science Lifecycle.md",
+    "Pasted image 20231218161146.png",
     "Computer Science/1686825007300.svg",
     "Regularization.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
@@ -203,17 +222,13 @@
     "Computer Science/Pasted image 20231206233619.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
     "Computer Science/Pasted image 20231206193103.png",
-    "Computer Science/Pasted image 20231206191944.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
     "Computer Science/Artificial Intelligence/Regularization/Overfitting vs Underfitting.md",
     "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
-    "Computer Science/Pasted image 20231206181612.png",
     "Computer Science/Artificial Intelligence/Regularization/Early Stopping.md",
     "Computer Science/Artificial Intelligence/Regularization/Data Augmentation.md",
     "Computer Science/Artificial Intelligence/Regularization/Dropout.md",
-    "Computer Science/Pasted image 20231206175728.png",
     "Computer Science/Artificial Intelligence/Regularization/Lasso Regression (L1).md",
-    "Computer Science/Pasted image 20231206174731.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Backpropagation.md",
     "Computer Science/Artificial Intelligence/Regularization",
     "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
@@ -224,12 +239,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning/Introduction to Deep Learning.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Other Deep Learning Models.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Segmentations.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/McCulloch-Pitts Neuron (MP).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Gated Recurrent Unit (GRU).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Long Short-Term Memory (LSTM).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Feedforward Neural Networks (FNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
     "Computer Science/Artificial Intelligence/Preprocessing",

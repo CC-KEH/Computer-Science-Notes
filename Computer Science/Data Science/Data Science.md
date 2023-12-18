@@ -2,7 +2,6 @@
 Data Science is a multidisciplinary field that combines techniques from statistics, computer science, domain knowledge, and data visualization to extract insights and knowledge from data. It encompasses the entire data lifecycle, from data collection and cleaning to analysis and interpretation.
 
 ## Index
-
 1. [[Introduction to Data Science]]
 2. [[Data Science Lifecycle]]
 3. [[Data Collection and Cleaning]]
@@ -13,3 +12,5 @@ Data Science is a multidisciplinary field that combines techniques from statisti
 8. [[Data Science Tools and Libraries]]
 9. [[Data Science Applications]]
 10. [[Data Science Ethics]]
+
+![[Pasted image 20231218162403.png]]
