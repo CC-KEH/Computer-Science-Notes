@@ -1,4 +1,3 @@
-
 # Linear Regression VS. Logistic Regression
 
 | Feature                              | Linear Regression                               | Logistic Regression                           |

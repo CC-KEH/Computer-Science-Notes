@@ -1,5 +1,5 @@
+![[Pasted image 20231218162857.png]]
 # Supervised learning
-
 Supervised learning is a type of machine learning where the model is trained on data that has been labeled. This means that each data point has a known output value. The model learns to predict the output value for new data points by finding patterns in the labeled data.
 
 #### Some of the most common supervised learning algorithms include:
