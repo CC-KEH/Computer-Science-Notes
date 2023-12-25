@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15a4d3ac54b135b6",
+        "id": "c2fd68c312495ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a069d7f893f1fb",
+            "id": "9be264c51a1418a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md",
+                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md",
+                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md",
+                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md"
+                "file": "Computer Science/Data Science/Data Exploration and Visualization.md"
               }
             }
           },
@@ -200,28 +200,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3a069d7f893f1fb",
+  "active": "9be264c51a1418a3",
   "lastOpenFiles": [
+    "Computer Science/Pasted image 20231218162857.png",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
+    "Computer Science/Data Science/Data Science.md",
+    "Computer Science/Data Science/Statistical Analysis.md",
+    "Computer Science/Data Science/Data Collection and Cleaning.md",
+    "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement/Reinforcement Learning.md",
-    "Pasted image 20231218163153.png",
+    "Computer Science/Pasted image 20231218163153.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
-    "Pasted image 20231218163053.png",
+    "Computer Science/Pasted image 20231218163053.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
-    "Pasted image 20231218162857.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression VS. Logistic Regression.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
     "Computer Science/1686825007300.svg",
     "Computer Science/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/Pasted image 20231203133330.png",
     "Computer Science/Pasted image 20231218161146.png",
     "Computer Science/COA/COA.md",
-    "Computer Science/Data Science/Data Science.md",
     "Computer Science/Pasted image 20231218162403.png",
     "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
     "Computer Science/Data Science/Data Exploration and Visualization.md",
-    "Computer Science/Data Science/Data Collection and Cleaning.md",
     "Computer Science/Pasted image 20231218162034.png",
     "Computer Science/Pasted image 20231218162027.png",
     "Computer Science/Data Science/Introduction to Data Science.md",
@@ -235,10 +237,7 @@
     "Computer Science/Artificial Intelligence/Regularization/Early Stopping.md",
     "Computer Science/Artificial Intelligence/Regularization/Data Augmentation.md",
     "Computer Science/Artificial Intelligence/Regularization/Dropout.md",
-    "Computer Science/Artificial Intelligence/Regularization/Lasso Regression (L1).md",
-    "Computer Science/Artificial Intelligence/Optimization Algorithms/Backpropagation.md",
     "Computer Science/Artificial Intelligence/Regularization",
-    "Computer Science/Artificial Intelligence/Deep Learning/Artificial Neural Networks.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
     "Computer Science/Artificial Intelligence/Preprocessing",
