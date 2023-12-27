@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c2fd68c312495ffd",
+        "id": "12a1a0c3ca6b7ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "9be264c51a1418a3",
+            "id": "1129366f14e98103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Data Exploration and Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Data Science/Data Exploration and Visualization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -200,10 +194,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9be264c51a1418a3",
+  "active": "f47683db94e4f8cb",
   "lastOpenFiles": [
-    "Computer Science/Pasted image 20231218162857.png",
+    "Computer Science/Pasted image 20231227170707.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
+    "Computer Science/Pasted image 20231227173308.png",
+    "Computer Science/Pasted image 20231227173257.png",
+    "Computer Science/Data Science/Ensemble Techniques/Random Forest.md",
+    "Computer Science/Data Science/Important Questions/out of bag score.md",
+    "Computer Science/Data Science/Important Questions/Important Questions.md",
+    "Computer Science/Data Science/Ensemble Techniques/Ensemble Technique.md",
+    "Computer Science/Data Science/Important Questions",
+    "Computer Science/Pasted image 20231227172156.png",
+    "Computer Science/Data Science/Ensemble Techniques",
+    "Computer Science/Data Science/Data Exploration and Visualization.md",
+    "Computer Science/Pasted image 20231218162857.png",
     "Computer Science/Data Science/Data Science.md",
     "Computer Science/Data Science/Statistical Analysis.md",
     "Computer Science/Data Science/Data Collection and Cleaning.md",
@@ -219,13 +224,8 @@
     "Computer Science/1686825007300.svg",
     "Computer Science/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/Pasted image 20231203133330.png",
-    "Computer Science/Pasted image 20231218161146.png",
     "Computer Science/COA/COA.md",
-    "Computer Science/Pasted image 20231218162403.png",
     "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Computer Science/Data Science/Data Exploration and Visualization.md",
-    "Computer Science/Pasted image 20231218162034.png",
-    "Computer Science/Pasted image 20231218162027.png",
     "Computer Science/Data Science/Introduction to Data Science.md",
     "Computer Science/Data Science/Data Science Lifecycle.md",
     "Regularization.md",
@@ -233,10 +233,6 @@
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
     "Computer Science/Artificial Intelligence/Regularization/Overfitting vs Underfitting.md",
-    "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
-    "Computer Science/Artificial Intelligence/Regularization/Early Stopping.md",
-    "Computer Science/Artificial Intelligence/Regularization/Data Augmentation.md",
-    "Computer Science/Artificial Intelligence/Regularization/Dropout.md",
     "Computer Science/Artificial Intelligence/Regularization",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
@@ -245,8 +241,6 @@
     "Untitled.canvas",
     "Computer Science/Cloud Computing",
     "Computer Science/Software Development",
-    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised"
+    "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement"
   ]
 }
