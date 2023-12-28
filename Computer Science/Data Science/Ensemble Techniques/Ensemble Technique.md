@@ -10,7 +10,7 @@ Bagging involves training multiple instances of the same base model on different
 
 ### 2. **Boosting:**
 
-Boosting focuses on training models sequentially, where each subsequent model corrects the errors of its predecessor. It assigns weights to data points, giving more emphasis to misclassified instances. Common boosting algorithms include [[AdaBoost]], [[Gradient Boosting]], and [[XGBoost]].
+Boosting focuses on training models sequentially, where each subsequent model corrects the errors of its predecessor. It assigns weights to data points, giving more emphasis to misclassified instances. Common boosting algorithms include [[AdaBoost (Adaptive Boosting)]], [[Gradient Boosting]], and [[XGBoost]].
 
 ![[Pasted image 20231227170707.png]]
 
