@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8a49bdfdf3e4e9",
+        "id": "c2212e72ebb83733",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d830d73d819278",
+            "id": "823f55402cac90dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md"
+              }
             }
           },
           {
@@ -194,46 +202,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab0f3f792ad46378",
+  "active": "823f55402cac90dc",
   "lastOpenFiles": [
-    "Computer Science/Pasted image 20231228184544.png",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
+    "Pasted image 20240102210112.png",
+    "Pasted image 20240102205513.png",
+    "Pasted image 20240102205455.png",
+    "Pasted image 20240102205443.png",
+    "Pasted image 20240102205430.png",
+    "Pasted image 20240102205143.png",
+    "Pasted image 20240102205131.png",
+    "Pasted image 20240102205115.png",
+    "Pasted image 20240102204751.png",
+    "Pasted image 20240102204702.png",
+    "Dbscan.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/K-means Clustering.md",
+    "Computer Science/Social Network Analysis/Clustering and Community Structure.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/K-Nearest Neighbors (KNN).md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
     "Computer Science/Data Science/Ensemble Techniques/XGBoost (Extreme Gradient Boosting).md",
-    "Computer Science/Pasted image 20231228190410.png",
     "Computer Science/Data Science/Ensemble Techniques/Random Forest.md",
     "Computer Science/Data Science/Ensemble Techniques/Gradient Boosting.md",
     "Computer Science/Data Science/Ensemble Techniques/Ensemble Technique.md",
-    "Computer Science/Pasted image 20231228185041.png",
     "Computer Science/Data Science/Ensemble Techniques/AdaBoost (Adaptive Boosting).md",
-    "Computer Science/Pasted image 20231228184630.png",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
     "Computer Science/Data Science/Introduction to Data Science.md",
     "Computer Science/Data Science/Data Science.md",
-    "Computer Science/Pasted image 20231227170707.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
-    "Computer Science/Pasted image 20231227173308.png",
-    "Computer Science/Pasted image 20231227173257.png",
     "Computer Science/Data Science/Important Questions/out of bag score.md",
     "Computer Science/Data Science/Important Questions/Important Questions.md",
     "Computer Science/Data Science/Important Questions",
-    "Computer Science/Pasted image 20231227172156.png",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Data Science/Data Exploration and Visualization.md",
-    "Computer Science/Pasted image 20231218162857.png",
     "Computer Science/Data Science/Statistical Analysis.md",
     "Computer Science/Data Science/Data Collection and Cleaning.md",
     "Computer Science/Artificial Intelligence/Linear Algebra/Linear Algebra.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Reinforcement/Reinforcement Learning.md",
-    "Computer Science/Pasted image 20231218163153.png",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Logistic Regression.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Linear Regression VS. Logistic Regression.md",
-    "Computer Science/COA/COA.md",
-    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
-    "Computer Science/Data Science/Data Science Lifecycle.md",
-    "Regularization.md",
-    "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/Artificial Intelligence/Regularization",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
