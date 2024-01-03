@@ -1,13 +1,10 @@
-
-# Silhouette Score
-
 ## Introduction
 
 Silhouette score is a metric used to evaluate the goodness of a clustering technique by measuring how well-separated the clusters are. It quantifies how similar an object is to its own cluster (cohesion) compared to other clusters (separation). The silhouette score ranges from -1 to 1, where a high score indicates well-defined clusters, a score around 0 suggests overlapping clusters, and a negative score indicates that data points might be assigned to the wrong clusters.
 
 ### Calculation
 
-The silhouette score for each data point \(i\) is computed as follows:
+The silhouette score for each data point i is computed as follows:
 
 ![[Pasted image 20240102205430.png]]
 ![[Pasted image 20240102205455.png]]
