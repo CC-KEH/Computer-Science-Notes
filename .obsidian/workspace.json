@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5eabfba61296188b",
+        "id": "f5c994f31fed8da8",
         "type": "tabs",
         "children": [
           {
-            "id": "ca9bd72103a96f13",
+            "id": "3b5dd69a10ab596b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
+                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
+                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
+                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md"
+                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md"
               }
             }
           },
@@ -202,29 +202,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca9bd72103a96f13",
+  "active": "3b5dd69a10ab596b",
   "lastOpenFiles": [
+    "Computer Science/assets/Pasted image 20240104164501.png",
+    "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
+    "Computer Science/assets/Pasted image 20240104184659.png",
+    "Computer Science/assets/Pasted image 20240104184551.png",
+    "Computer Science/Data Science/Time Series/Auto-Correlation Function (ACF) and Partial Auto-Correlation Function (PACF).md",
+    "Computer Science/assets/Pasted image 20240104183216.png",
+    "Computer Science/assets/Pasted image 20240104183200.png",
+    "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
     "Computer Science/Data Science/Time Series/Time Series Analysis.md",
     "Computer Science/Data Science/Time Series/Augmented Dickey-Fuller Test.md",
-    "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
-    "Computer Science/Data Science/Time Series/Arima.md",
     "Computer Science/Data Science/Time Series/Moving Average.md",
-    "Pasted image 20240104165620.png",
-    "Pasted image 20240104164501.png",
+    "Computer Science/assets/Pasted image 20240104165620.png",
     "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets/Pasted image 20240102200900.png",
     "Computer Science/assets",
     "Computer Science/assets/Pasted image 20240104005212.png",
     "Computer Science/assets/Pasted image 20240104005050.png",
-    "Computer Science/assets/Pasted image 20240104004935.png",
-    "Computer Science/assets/Pasted image 20240104004852.png",
-    "Computer Science/assets/Pasted image 20240104004850.png",
-    "Computer Science/Data Science/Time Series/Acf Pacf.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
     "Computer Science/Data Science/Time Series",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
-    "Computer Science/assets/Pasted image 20240102210112.png",
     "Dbscan.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/K-means Clustering.md",
@@ -242,7 +242,6 @@
     "Computer Science/Data Science/Data Science.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
     "Computer Science/Data Science/Important Questions/out of bag score.md",
-    "Computer Science/Data Science/Important Questions/Important Questions.md",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",
