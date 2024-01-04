@@ -2,6 +2,8 @@
 
 Moving average is a statistical technique commonly used in time series analysis to smooth out short-term fluctuations and highlight longer-term trends or cycles. It involves calculating the average of a subset of data points within a moving window or interval, and as the window moves through the data, a series of averages is obtained.
 
+![[Pasted image 20240104165620.png]]
+
 ## Types of Moving Averages
 
 ### 1. **Simple Moving Average (SMA):**
@@ -24,10 +26,15 @@ Moving average is a statistical technique commonly used in time series analysis 
 
    - alpha is the smoothing factor, and a higher value gives more weight to recent observations.
 
+### 4. **Centered Moving Average (CMA):**
+  - Unlike the simple moving average, which places equal weight on all data points within a window, the centered moving average gives more weight to the central data point in the window, providing a more accurate representation of the underlying trend.
+![[Pasted image 20240104164501.png]]
+ - The CMA for a data point Xt​ with a window size of n is calculated as the average of the values within a symmetric window centered around Xt​:
+
 ## Applications
 
 1. **Smoothing Time Series Data:**
-   - Moving averages are used to eliminate noise and highlight trends in time series data.
+   - Moving averages are used to eliminate noise and highlight trends in time series data, which later helps in pattern recognition for better analysis.
 
 2. **Forecasting:**
    - Predicting future values by analyzing the trend captured through moving averages.

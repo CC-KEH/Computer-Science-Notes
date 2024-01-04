@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8afea9b96614fb4a",
+        "id": "5eabfba61296188b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f368258b2f43915",
+            "id": "ca9bd72103a96f13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md"
+              }
             }
           },
           {
@@ -159,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "a18383d1cb98391b",
@@ -178,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,27 +202,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb6f53b2834377db",
+  "active": "ca9bd72103a96f13",
   "lastOpenFiles": [
     "Computer Science/Data Science/Time Series/Time Series Analysis.md",
-    "Pasted image 20240104005212.png",
-    "Computer Science/Data Science/Time Series/Moving Average.md",
-    "Pasted image 20240104005050.png",
-    "Pasted image 20240104004935.png",
-    "Pasted image 20240104004852.png",
-    "Pasted image 20240104004850.png",
-    "Computer Science/Data Science/Time Series/Arima.md",
-    "Computer Science/Data Science/Time Series/Acf Pacf.md",
+    "Computer Science/Data Science/Time Series/Augmented Dickey-Fuller Test.md",
     "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
+    "Computer Science/Data Science/Time Series/Arima.md",
+    "Computer Science/Data Science/Time Series/Moving Average.md",
+    "Pasted image 20240104165620.png",
+    "Pasted image 20240104164501.png",
+    "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
+    "Computer Science/assets/Pasted image 20240102200900.png",
+    "Computer Science/assets",
+    "Computer Science/assets/Pasted image 20240104005212.png",
+    "Computer Science/assets/Pasted image 20240104005050.png",
+    "Computer Science/assets/Pasted image 20240104004935.png",
+    "Computer Science/assets/Pasted image 20240104004852.png",
+    "Computer Science/assets/Pasted image 20240104004850.png",
+    "Computer Science/Data Science/Time Series/Acf Pacf.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
     "Computer Science/Data Science/Time Series",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
-    "Pasted image 20240102210112.png",
-    "Pasted image 20240102205513.png",
-    "Pasted image 20240102205455.png",
-    "Pasted image 20240102205443.png",
-    "Pasted image 20240102205430.png",
+    "Computer Science/assets/Pasted image 20240102210112.png",
     "Dbscan.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/K-means Clustering.md",
@@ -240,7 +250,6 @@
     "Computer Science/Artificial Intelligence/Linear Algebra",
     "Computer Science/Artificial Intelligence/Preprocessing",
     "Computer Science/Software Development/DevOps",
-    "Untitled.canvas",
-    "Computer Science/Cloud Computing"
+    "Untitled.canvas"
   ]
 }

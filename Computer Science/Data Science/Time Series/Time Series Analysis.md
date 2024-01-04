@@ -15,7 +15,7 @@ Time series analysis is a statistical method that deals with time-ordered data p
 ### 4. **Seasonality:**
    - Repeating patterns or cycles at regular intervals, often corresponding to seasons or other calendar periods.
 ### 5. **Cyclic Patterns:**
-   - Patterns that are not strictly related to calendar-based seasons but exhibit periodic behavior over a more extended time frame.
+   - Patterns that are not strictly related to calendar-based seasons but exhibit periodic behavior over a **more extended time frame**.
 ### 6. **Noise:**
    - Random variations or irregularities that make the data seem unpredictable.
 
