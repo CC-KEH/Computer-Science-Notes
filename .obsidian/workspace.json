@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md"
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md"
               }
             }
           },
@@ -204,8 +204,10 @@
   },
   "active": "3b5dd69a10ab596b",
   "lastOpenFiles": [
-    "Computer Science/assets/Pasted image 20240104164501.png",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
     "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
+    "Computer Science/assets/Pasted image 20240104164501.png",
     "Computer Science/assets/Pasted image 20240104184659.png",
     "Computer Science/assets/Pasted image 20240104184551.png",
     "Computer Science/Data Science/Time Series/Auto-Correlation Function (ACF) and Partial Auto-Correlation Function (PACF).md",
@@ -223,7 +225,6 @@
     "Computer Science/assets/Pasted image 20240104005050.png",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
     "Computer Science/Data Science/Time Series",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
     "Dbscan.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
