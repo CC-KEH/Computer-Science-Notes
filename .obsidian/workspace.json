@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md"
+                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md"
               }
             }
           },
@@ -204,8 +204,11 @@
   },
   "active": "3b5dd69a10ab596b",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/V-Measure.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
     "Computer Science/assets/Pasted image 20240104164501.png",
     "Computer Science/assets/Pasted image 20240104184659.png",
@@ -227,7 +230,6 @@
     "Computer Science/Data Science/Time Series",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
     "Dbscan.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/K-means Clustering.md",
     "Computer Science/Social Network Analysis/Clustering and Community Structure.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
@@ -241,8 +243,6 @@
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
     "Computer Science/Data Science/Introduction to Data Science.md",
     "Computer Science/Data Science/Data Science.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Decision Trees.md",
-    "Computer Science/Data Science/Important Questions/out of bag score.md",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",
