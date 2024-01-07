@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md"
+                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "3b5dd69a10ab596b",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+    "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/V-Measure.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
@@ -242,7 +243,6 @@
     "Computer Science/Data Science/Ensemble Techniques/AdaBoost (Adaptive Boosting).md",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
     "Computer Science/Data Science/Introduction to Data Science.md",
-    "Computer Science/Data Science/Data Science.md",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",

@@ -1,0 +1,15 @@
+## Project Setup
+
+Make Requirements.txt
+Create an Environment: python -m venv env | conda create -p <name> | conda create --name <name>
+Make setup.py
+Create src/__init__.py
+run python setup.py install
+Create GitHub repo
+Initialise local Git repo
+Make README.md
+Make .gitignore (locally), take python template from Github -> Create file
+Make Initial Commit
+
+## Project Structure Setup
+
