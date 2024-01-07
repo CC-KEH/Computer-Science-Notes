@@ -16,3 +16,11 @@
 
 ### Project Structure Setup
 
+1. Create artifacts, notebooks/data, 
+2. Training Pipeline
+3. Create 
+	- src/components/  components stores code for components of pipeline
+	- src/pipelines/ pipelines stores code for training and prediction pipeline
+	- src/`utils.py` stores common functionalities
+	- src/`logger.py` 
+	- src/`exception.py` for exception handling

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c994f31fed8da8",
+        "id": "eeeacf0e97cb0312",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5dd69a10ab596b",
+            "id": "99e161df0fc2760e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b5dd69a10ab596b",
+  "active": "99e161df0fc2760e",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
+    "Computer Science/Data Science/Data Science Pipeline.md",
     "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/V-Measure.md",
@@ -242,7 +243,6 @@
     "Computer Science/Data Science/Ensemble Techniques/Ensemble Technique.md",
     "Computer Science/Data Science/Ensemble Techniques/AdaBoost (Adaptive Boosting).md",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
-    "Computer Science/Data Science/Introduction to Data Science.md",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",
