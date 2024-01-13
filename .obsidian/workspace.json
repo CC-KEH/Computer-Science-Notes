@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Science/Steps to Create End to End Data Science Project.md"
+                "file": "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md"
               }
             }
           },
@@ -204,8 +204,8 @@
   },
   "active": "99e161df0fc2760e",
   "lastOpenFiles": [
-    "Computer Science/Data Science/Data Science Pipeline.md",
     "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
+    "Computer Science/Data Science/Data Science Pipeline.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
