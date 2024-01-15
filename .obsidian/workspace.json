@@ -82,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif"
-              }
+              "state": {}
             }
           },
           {
@@ -198,11 +194,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab0f3f792ad46378",
+  "active": "f47683db94e4f8cb",
   "lastOpenFiles": [
+    "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/assets/1_laN3aseisIU3T9QTIlob4Q.gif",
-    "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
     "Computer Science/assets/Pasted image 20240115203147.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
     "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
