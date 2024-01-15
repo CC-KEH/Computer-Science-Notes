@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c63e95cb88e0a2a8",
+        "id": "7eac536e1c3f37c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e480665895b96681",
+            "id": "8cb46764848ddcc8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,9 +194,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f47683db94e4f8cb",
+  "active": "8cb46764848ddcc8",
   "lastOpenFiles": [
+    "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
+    "Computer Science/Development/App/Flutter/Positioning Widget.md",
+    "Computer Science/Development/App/Flutter/Routing.md",
+    "Computer Science/Development/App/Flutter/Navigation.md",
+    "Computer Science/Development/App/Flutter/Flutter.md",
+    "Computer Science/DBMS/Data Model.md",
+    "Computer Science/assets/Pasted image 20230710153808.png",
+    "Computer Science/Languages/Go.md",
+    "Computer Science/Languages/Programming Languages.md",
+    "Computer Science/Operating System/Operating System.md",
+    "Computer Science/COA/COA.md",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Gradient Descent.md",
     "Computer Science/assets/1_laN3aseisIU3T9QTIlob4Q.gif",
     "Computer Science/assets/Pasted image 20240115203147.png",
@@ -220,19 +231,9 @@
     "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
     "Computer Science/Data Science/Time Series/Time Series Analysis.md",
     "Computer Science/Data Science/Time Series/Augmented Dickey-Fuller Test.md",
-    "Computer Science/Data Science/Time Series/Moving Average.md",
     "Computer Science/assets/Pasted image 20240104165620.png",
-    "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Silhouette Scoring and Clustering.md",
     "Computer Science/Data Science/Time Series",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/DBSCAN.md",
-    "Dbscan.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/K-means Clustering.md",
-    "Computer Science/Social Network Analysis/Clustering and Community Structure.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Unsupervised Learning.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/K-Nearest Neighbors (KNN).md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
