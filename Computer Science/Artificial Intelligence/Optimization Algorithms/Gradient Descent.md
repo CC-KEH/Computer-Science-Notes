@@ -6,6 +6,8 @@
 - The gradient of a function is a vector that points in the direction of the steepest descent.
 - The gradient descent algorithm can be used to find the minimum of any function, but it is most commonly used in machine learning to train models.
 
+![[1_laN3aseisIU3T9QTIlob4Q.gif]]
+
 
 ### Advantages and Disadvantages of Gradient Descent
 
@@ -81,5 +83,64 @@ xn+1​ = xn - α * ∇f(xn​)
 
 
 
+## Challenges of Gradient Descent and Optimization Algorithms:
+
+1. **Convergence Speed:**
+   - **Issue:** Traditional gradient descent may converge slowly, especially in cases where the cost surface has complex shapes, plateaus, or narrow valleys.
+   - **Solution:** Various optimization algorithms aim to accelerate convergence.
+
+2. **Sensitivity to Initial Conditions:**
+   - **Issue:** The choice of initial parameter values can influence convergence or lead to convergence to suboptimal solutions.
+   - **Solution:** Initialization strategies and advanced optimization methods can mitigate sensitivity to initial conditions.
+
+3. **Local Minima and Saddle Points:**
+   - **Issue:** Gradient descent can get stuck in local minima or slow down around saddle points, hindering convergence to the global minimum.
+   - **Solution:** Optimization algorithms introduce modifications to navigate through local minima and saddle points more effectively.
+
+4. **Learning Rate Selection:**
+   - **Issue:** Choosing an appropriate learning rate is challenging. A too small learning rate can lead to slow convergence, while a too large one may cause divergence or overshooting.
+   - **Solution:** Adaptive learning rate methods dynamically adjust the learning rate during training.
+
+### Optimization Algorithms:
+
+#### 1. **[[Stochastic Gradient Descent (SGD)]]:**
+   - **Idea:** Instead of using the entire dataset for each iteration, SGD uses a random subset (mini-batch) to update parameters.
+   - **Advantage:** Faster convergence, especially in large datasets.
+
+#### 2. **[[Mini-Batch Gradient Descent]]:**
+   - **Idea:** A compromise between SGD and batch gradient descent, where updates are computed using a small randomly selected subset (mini-batch) of the data.
+   - **Advantage:** Balances the benefits of SGD (faster updates) and batch gradient descent (smoother convergence).
+
+#### 3. **[[Momentum]]:**
+   - **Idea:** Introduces a momentum term that accelerates the optimization by adding a fraction of the previous update to the current update. 
+   - **Advantage:** Helps navigate through plateaus and accelerates convergence, reducing oscillations.
+
+#### 4. **[[Adagrad (Adaptive Gradient Algorithm)]]:**
+   - **Idea:** Adapts the learning rate individually for each parameter based on historical gradients. (Basically it just penalizes weights that went through a lot of changes, as compared to those who haven't gone that much. In short this is very good for sparse features)
+   - **Advantage:** Well-suited for sparse data, adjusts learning rates automatically for each parameter.
+
+#### 5. **[[RMSprop (Root Mean Square Propagation)]]:**
+   - **Idea:** Similar to Adagrad but uses a moving average of squared gradients, preventing the learning rate from decreasing too rapidly.
+   - **Advantage:** Addresses the diminishing learning rate problem in Adagrad.
+
+#### 6. **[[Adam (Adaptive Moment Estimation)]]:**
+   - **Idea:** Combines aspects of momentum and RMSprop, maintaining both a moving average of gradients and a moving average of squared gradients.
+   - **Advantage:** Efficiently adapts learning rates and handles sparse gradients.
+
+#### 7. **[[Nadam]]:**
+   - **Idea:** An extension of Adam with Nesterov momentum, combining the benefits of Nesterov Accelerated Gradient (NAG) and Adam.
+   - **Advantage:** Improved convergence on non-convex surfaces.
+
+#### 8. **[[Adadelta]]:**
+   - **Idea:** An extension of RMSprop that eliminates the need for an initial learning rate, using a running average of squared parameter updates.
+   - **Advantage:** Adapts learning rates more effectively without the need for manual tuning.
+
+
 # Question
 ![[Pasted image 20230912204814.png]]
+
+
+
+
+
+![[0_YmOoWW7_5-St1t3I.gif]]
