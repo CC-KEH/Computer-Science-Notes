@@ -1,4 +1,4 @@
-  ## Introduction
+## Introduction
 Convolutional Neural Networks (CNNs) are a class of deep neural networks designed for processing structured grid data, such as images. CNNs have proven highly effective in computer vision tasks, demonstrating superior performance in tasks like image classification, object detection, and image segmentation.
 
 ![[Pasted image 20231202150425.png]]

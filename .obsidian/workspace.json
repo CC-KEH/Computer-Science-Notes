@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7eac536e1c3f37c3",
+        "id": "7aaa0cb63300fd8c",
         "type": "tabs",
         "children": [
           {
-            "id": "8cb46764848ddcc8",
+            "id": "84756104f4e85945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,8 +194,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8cb46764848ddcc8",
+  "active": "84756104f4e85945",
   "lastOpenFiles": [
+    "Computer Science/assets/Pasted image 20240125160521.png",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/GAN.md",
+    "Computer Science/assets/Pasted image 20240125160712.png",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision/Computer Vision.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision/Object Detection.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/R-CNNs.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Resnets.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Transformers.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Rosenblatt Neuron (Perceptron).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/McCulloch-Pitts Neuron (MP).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Long Short-Term Memory (LSTM).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Feedforward Neural Networks (FNN).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Gated Recurrent Unit (GRU).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
     "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
     "Computer Science/Development/App/Flutter/Positioning Widget.md",
@@ -220,26 +229,9 @@
     "Computer Science/assets/1_laN3aseisIU3T9QTIlob4Q.gif",
     "Computer Science/assets/Pasted image 20240115203147.png",
     "Computer Science/Artificial Intelligence/Optimization Algorithms/Entropy.md",
-    "Computer Science/Artificial Intelligence/Regularization/Regularization.md",
-    "Computer Science/Artificial Intelligence/Optimization Algorithms/Cost Functions and Loss Functions.md",
-    "Computer Science/Data Science/Steps to Create End to End Data Science Project.md",
-    "Computer Science/Data Science/Data Science Pipeline.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Local Outlier Factor (LOF).md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Homogeneity and Completeness in Clustering.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Hierarchical Clustering.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/V-Measure.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
-    "Computer Science/Data Science/Time Series/ARIMA (AutoRegressive Integrated Moving Average).md",
     "Computer Science/assets/Pasted image 20240104164501.png",
     "Computer Science/assets/Pasted image 20240104184659.png",
     "Computer Science/assets/Pasted image 20240104184551.png",
-    "Computer Science/Data Science/Time Series/Auto-Correlation Function (ACF) and Partial Auto-Correlation Function (PACF).md",
-    "Computer Science/assets/Pasted image 20240104183216.png",
-    "Computer Science/assets/Pasted image 20240104183200.png",
-    "Computer Science/Data Science/Time Series/Stationary and Non Stationary.md",
-    "Computer Science/Data Science/Time Series/Time Series Analysis.md",
-    "Computer Science/Data Science/Time Series/Augmented Dickey-Fuller Test.md",
-    "Computer Science/assets/Pasted image 20240104165620.png",
     "Computer Science/assets",
     "Computer Science/Data Science/Time Series",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
@@ -249,7 +241,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Computer Science/Artificial Intelligence/Linear Algebra",
     "Computer Science/Artificial Intelligence/Preprocessing",
-    "Computer Science/Software Development/DevOps",
     "Untitled.canvas"
   ]
 }
