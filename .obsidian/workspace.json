@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7aaa0cb63300fd8c",
+        "id": "41618857de3c6542",
         "type": "tabs",
         "children": [
           {
-            "id": "84756104f4e85945",
+            "id": "a4661104391c1196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
+                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
+                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
+                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md"
+                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md"
               }
             }
           },
@@ -202,11 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84756104f4e85945",
+  "active": "a4661104391c1196",
   "lastOpenFiles": [
+    "Computer Science/Artificial Intelligence/Deep Learning/Activation Function.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
+    "Computer Science/Data Science/Data Science.md",
+    "Machine Learning in Data Science.md",
+    "Computer Science/Data Science/Statistical Analysis.md",
+    "Computer Science/Data Science/Data Exploration and Visualization.md",
+    "Computer Science/Data Science/Data Collection and Cleaning.md",
+    "Computer Science/Data Science/Data Science Lifecycle.md",
+    "Computer Science/Data Science/Introduction to Data Science.md",
+    "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
     "Computer Science/Data Science/Data Analytics/Data Measurement Levels.md",
     "Computer Science/Data Science/Data Analytics/Analyzing interval data.md",
-    "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
     "Computer Science/Data Science/Data Analytics/Data Analytics and Data Analysis.md",
     "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing ordinal data.md",
     "Pasted image 20240209183228.png",
@@ -227,18 +236,9 @@
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/McCulloch-Pitts Neuron (MP).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Long Short-Term Memory (LSTM).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Feedforward Neural Networks (FNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Gated Recurrent Unit (GRU).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
     "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
-    "Computer Science/Development/App/Flutter/Positioning Widget.md",
-    "Computer Science/Development/App/Flutter/Routing.md",
-    "Computer Science/Development/App/Flutter/Navigation.md",
-    "Computer Science/Development/App/Flutter/Flutter.md",
-    "Computer Science/DBMS/Data Model.md",
     "Computer Science/assets/Pasted image 20230710153808.png",
-    "Computer Science/Languages/Go.md",
     "Computer Science/assets/1_laN3aseisIU3T9QTIlob4Q.gif",
     "Computer Science/assets/Pasted image 20240115203147.png",
     "Computer Science/assets/Pasted image 20240104164501.png",

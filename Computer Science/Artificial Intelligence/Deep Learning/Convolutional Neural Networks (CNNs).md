@@ -114,3 +114,4 @@ Convolutional Neural Networks (CNNs) are a class of deep neural networks designe
 
 # Visualizations
 [Interactive Tool](https://poloclub.github.io/cnn-explainer/)
+[Visualization Video](https://youtu.be/pj9-rr1wDhM?si=HFt3Cqj-WJb3a1WX)

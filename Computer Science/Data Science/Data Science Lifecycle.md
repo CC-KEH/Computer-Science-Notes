@@ -49,7 +49,7 @@ The lifecycle of a data science project typically involves several stages, from 
    - Document any ethical considerations, especially in sensitive applications.
 
 10. **Maintenance and Monitoring:**
-    - Implement continuous monitoring of model inputs and outputs in the production environment.
+	- Implement continuous monitoring of model inputs and outputs in the production environment.
     - Set up alerts for drift detection or performance degradation.
     - Regularly retrain models using updated data to maintain relevance.
 

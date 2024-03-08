@@ -7,7 +7,7 @@ Data Science is a multidisciplinary field that combines techniques from statisti
 3. [[Data Collection and Cleaning]]
 4. [[Data Exploration and Visualization]]
 5. [[Statistical Analysis]]
-6. [[Machine Learning in Data Science]]
+6. [[Machine Learning]]
 7. [[Big Data and Data Engineering]]
 8. [[Data Science Tools and Libraries]]
 9. [[Data Science Applications]]
