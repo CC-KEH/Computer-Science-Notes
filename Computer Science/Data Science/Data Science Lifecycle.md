@@ -1,4 +1,4 @@
-The lifecycle of a data science project typically involves several stages, from initial planning to deployment and maintenance. Here is a general overview of the common stages in the lifecycle of a data science project:
+The lifecycle of a data science project typically involves several stages, from initial planning to deployment and maintenance.
 
 ![[Pasted image 20231218161146.png]]
 
@@ -6,7 +6,6 @@ The lifecycle of a data science project typically involves several stages, from 
 1. **Define the Problem:**
    - Conduct thorough discussions with stakeholders to understand the business context and objectives.
    - Clearly articulate the problem, ensuring alignment between the data science goals and broader business goals.
-   - Define key performance indicators (KPIs) that will be used to measure the success of the project.
 
 2. **Data Collection:**
    - Identify and source relevant data from various internal and external repositories.
@@ -49,16 +48,6 @@ The lifecycle of a data science project typically involves several stages, from 
    - Document any ethical considerations, especially in sensitive applications.
 
 10. **Maintenance and Monitoring:**
-	- Implement continuous monitoring of model inputs and outputs in the production environment.
-    - Set up alerts for drift detection or performance degradation.
-    - Regularly retrain models using updated data to maintain relevance.
-
-11. **Feedback Loop:**
-    - Establish mechanisms for gathering feedback from end-users and stakeholders.
-    - Use feedback to update models, address issues, and enhance performance.
-    - Encourage collaboration between data scientists and domain experts for ongoing improvement.
-
-12. **Retirement or Replacement:**
-    - Regularly assess the model against changing business requirements and data landscapes.
-    - Consider model retirement or replacement when it no longer meets performance expectations or becomes obsolete.
-    - Document the decision-making process for transparency and accountability.
+ - Implement continuous monitoring of model inputs and outputs in the production environment.
+ - Set up alerts for drift detection or performance degradation.
+ - Regularly retrain models using updated data to maintain relevance.

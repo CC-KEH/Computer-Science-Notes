@@ -9,7 +9,6 @@
    - **Statistics and Mathematics:** Fundamental for understanding data distributions, making predictions, and conducting inferential analysis.
    - **Computer Science:** Involves programming skills for data manipulation, analysis, and the development of algorithms.
    - **Domain Expertise:** Understanding the specific context and industry to interpret data in a meaningful way.
-   - **Data Engineering:** Involves the collection, cleaning, and transformation of raw data into a usable format.
 
 **3. The Data Science Process:**
    - **Problem Formulation:** Clearly define the problem or question that data science aims to address, aligning with business objectives.
@@ -34,19 +33,3 @@
    - **Machine Learning:** Developing algorithms that can learn patterns from data to make predictions or automate decision-making.
    - **Natural Language Processing (NLP):** Processing and understanding human language for applications like sentiment analysis and chatbots.
    - **Computer Vision:** Teaching machines to interpret and understand visual information, used in image recognition and autonomous vehicles.
-
-**6. Ethical Considerations in Data Science:**
-   - **Privacy:** Safeguarding personal and sensitive information in data collection and analysis.
-   - **Bias and Fairness:** Mitigating biases in data and algorithms to ensure fair and unbiased results.
-   - **Transparency:** Communicating openly about the methods, data sources, and limitations of data science projects.
-
-**7. Career Paths in Data Science:**
-   - **Data Scientist:** Analyzing and interpreting complex data sets to inform business decision-making.
-   - **Data Analyst:** Focusing on interpreting and visualizing data to extract insights.
-   - **Machine Learning Engineer:** Developing and deploying machine learning models.
-   - **Data Engineer:** Designing, constructing, and maintaining the systems and architectures that allow for the processing of large volumes of data.
-
-**8. Challenges in Data Science:**
-   - **Data Quality:** Ensuring data accuracy and reliability.
-   - **Interdisciplinary Collaboration:** Bridging gaps between domain experts, data scientists, and IT professionals.
-   - **Model Interpretability:** Understanding and explaining the decisions made by complex models.

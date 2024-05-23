@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41618857de3c6542",
+        "id": "f3b9032bd67b195b",
         "type": "tabs",
         "children": [
           {
-            "id": "a4661104391c1196",
+            "id": "096f4eedb3d402b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
+                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 209.5
   },
   "right": {
     "id": "c162cc94527f24b4",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
+                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md",
+                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/Deep Learning/Convolutional Neural Networks (CNNs).md"
+                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md"
               }
             }
           },
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,40 +202,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4661104391c1196",
+  "active": "096f4eedb3d402b1",
   "lastOpenFiles": [
-    "Computer Science/Artificial Intelligence/Deep Learning/Activation Function.md",
-    "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
-    "Computer Science/Data Science/Data Science.md",
-    "Machine Learning in Data Science.md",
-    "Computer Science/Data Science/Statistical Analysis.md",
-    "Computer Science/Data Science/Data Exploration and Visualization.md",
-    "Computer Science/Data Science/Data Collection and Cleaning.md",
-    "Computer Science/Data Science/Data Science Lifecycle.md",
-    "Computer Science/Data Science/Introduction to Data Science.md",
-    "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing nominal data.md",
-    "Computer Science/Data Science/Data Analytics/Data Measurement Levels.md",
-    "Computer Science/Data Science/Data Analytics/Analyzing interval data.md",
+    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
+    "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
+    "Computer Science/Data Science/Data Engineering/Data Processing.md",
+    "Computer Science/Data Science/Data Engineering/Data Storage.md",
+    "Computer Science/Data Science/Data Engineering/Untitled.md",
+    "Computer Science/Data Science/Data Engineering/Apache.md",
+    "Computer Science/Data Science/Data Engineering/Streaming.md",
     "Computer Science/Data Science/Data Analytics/Data Analytics and Data Analysis.md",
-    "Computer Science/Data Science/Data Analytics/Statistical tests for analyzing ordinal data.md",
-    "Pasted image 20240209183228.png",
-    "Pasted image 20240209175947.png",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/OCR.md",
-    "Computer Science/Data Science/Data Analytics",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/GAN.md",
-    "Computer Science/assets/Pasted image 20240125160521.png",
-    "Computer Science/assets/Pasted image 20240125160712.png",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision/Computer Vision.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision/Object Detection.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/R-CNNs.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Resnets.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision",
+    "Computer Science/Data Science/Data Engineering",
+    "Computer Science/Data Science/Statistical Analysis.md",
+    "Computer Science/Data Science/Introduction to Data Science.md",
+    "Computer Science/Data Science/Data Science Lifecycle.md",
+    "Computer Science/Data Science/Data Science.md",
+    "Computer Science/Data Science/Data Collection and Cleaning.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
+    "Computer Science/assets/Pasted image 20240209175947.png",
+    "Machine Learning in Data Science.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Transformers.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Rosenblatt Neuron (Perceptron).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Resnets.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/R-CNNs.md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/OCR.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/McCulloch-Pitts Neuron (MP).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/GAN.md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Long Short-Term Memory (LSTM).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Gated Recurrent Unit (GRU).md",
+    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
+    "Computer Science/assets/Pasted image 20240209183228.png",
+    "Computer Science/Data Science/Data Analytics",
+    "Computer Science/assets/Pasted image 20240125160521.png",
+    "Computer Science/assets/Pasted image 20240125160712.png",
+    "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision",
     "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
     "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
     "Computer Science/assets/Pasted image 20230710153808.png",
@@ -249,7 +250,6 @@
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures",
-    "Computer Science/Artificial Intelligence/Linear Algebra",
     "Untitled.canvas"
   ]
 }
