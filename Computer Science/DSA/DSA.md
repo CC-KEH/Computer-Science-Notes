@@ -1,5 +1,3 @@
-
-
 ## Arrays
 [[Arrays]]
 
@@ -14,6 +12,9 @@
 
 ## Bit Manipulation
 [[Bit Manipulation]]
+
+# Dynamic Programming
+[[Dynamic Programming]]
 
 
 ## Real world application

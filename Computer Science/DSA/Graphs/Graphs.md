@@ -5,7 +5,7 @@
     - Graphs: Structures with nodes (vertices) and edges connecting them.
     - Types of Graphs: Directed, Undirected, Weighted, Unweighted.
 
-3. **[[Graph Representation]]**    
+3. **[[Graph Representation]]** 
     - Adjacency Matrix: Matrix showing connections between nodes.
     - Adjacency List: List of nodes and their adjacent nodes.
     - Incidence Matrix: Matrix showing edges and their connections.
@@ -16,7 +16,7 @@
     - Connected Graphs: All nodes reachable from any node.
     - Components: Subsets of nodes connected within.
 
-5. **[[Graph Traversal]]**    
+5. **[[Graph Traversal]]**
     - Breadth-First Search (BFS): Exploring neighbors before deeper levels.
     - Depth-First Search (DFS): Exploring as far as possible along each branch.
 

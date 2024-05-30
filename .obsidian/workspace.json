@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3b9032bd67b195b",
+        "id": "db9910685b020a77",
         "type": "tabs",
         "children": [
           {
-            "id": "096f4eedb3d402b1",
+            "id": "a980b43b33ff21a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Data Science/Data Engineering/Data Ingestion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,10 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "096f4eedb3d402b1",
+  "active": "a980b43b33ff21a8",
   "lastOpenFiles": [
-    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
+    "Computer Science/DSA/DSA.md",
+    "Computer Science/DSA/Dynamic Programming.md",
+    "Computer Science/DSA/Arrays.md",
+    "Computer Science/DSA/Stacks and Queues.md",
+    "Computer Science/DSA/Graphs/Graphs.md",
+    "Computer Science/DSA/Graphs/Graph Traversal.md",
+    "Computer Science/DSA/Graphs/Graph Representation.md",
     "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
+    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
     "Computer Science/Data Science/Data Engineering/Data Processing.md",
     "Computer Science/Data Science/Data Engineering/Data Storage.md",
     "Computer Science/Data Science/Data Engineering/Untitled.md",
@@ -225,13 +224,6 @@
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Rosenblatt Neuron (Perceptron).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
     "Computer Science/Artificial Intelligence/Deep Learning/architectures/Resnets.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/R-CNNs.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/OCR.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/McCulloch-Pitts Neuron (MP).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/GAN.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Long Short-Term Memory (LSTM).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Gated Recurrent Unit (GRU).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Convolutional Neural Networks (CNN).md",
     "Computer Science/assets/Pasted image 20240209183228.png",
     "Computer Science/Data Science/Data Analytics",
     "Computer Science/assets/Pasted image 20240125160521.png",

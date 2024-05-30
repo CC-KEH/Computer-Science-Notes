@@ -58,37 +58,29 @@ C -> {A}
 
    - It's similar to the adjacency list, but it uses sets to store neighbors, which can help efficiently check for the existence of an edge.
 
-6. **Compressed Sparse Row (CSR) or Compressed Sparse Column (CSC)**:
-   - **Description**: These representations are used for large sparse graphs, efficiently storing graph information.
-   - **Example**: 
-     These representations are not typically shown directly with examples but are data structures optimized for sparse graphs to save memory.
+## Graph Representation using Adjacency List
+```python
+class Graph:
+    def __init__(self,Nodes):
+        self.nodes = Nodes
+        self.graph = {}
+        for node in self.nodes:
+            self.graph[node] = []
 
-7. **Graph Database**:
-   - **Description**: Graph databases like Neo4j or Amazon Neptune store graph data in specialized data structures and allow for efficient querying.
-   - **Example**: 
-     A social network might use a graph database to represent user profiles and their relationships.
+    def addEdge(self,V1,V2,w):
+        self.graph[V1].append([V2,w])
+        self.graph[V2].append([V1,w])
 
-8. **Object-Oriented Representation**:
-   - **Description**: Custom classes for vertices and edges are created, allowing for flexibility and customization.
-   - **Example**: 
-     In Python, you can create a `Vertex` class with properties like name and a list of neighbors. Edges can be represented as instances of an `Edge` class.
+    def add_directed_Edge(self,V1,V2,w):
+        self.graph[V1].append([V2,w])
 
-9. **Property Graph**:
-   - **Description**: Property graphs associate properties or attributes with nodes and edges.
-   - **Example**:
-     In a recommendation system, you might have a user node with properties like name and age, and an edge representing "likes" with properties like "timestamp" and "rating."
+    def addVertex(self,V):
+        if V in self.graph:
+            pass
+        else:
+            self.graph[V]=[]
 
-10. **Spatial Data Structures (e.g., Quadtree or R-tree)**:
-    - **Description**: These structures are used for spatial or geographical applications where nodes represent geographical areas, and edges represent spatial relationships.
-    - **Example**: 
-      In geographic information systems (GIS), a quadtree can be used to represent hierarchical divisions of a region.
-
-11. **GraphML and other Serialization Formats**:
-    - **Description**: These formats are used for storing and exchanging graph data between applications.
-    - **Example**: 
-      A graph of web page links can be saved in GraphML format with nodes representing web pages and edges representing links between them.
-
-12. **3D Graph Representation**:
-    - **Description**: In 3D representations, nodes and edges are used to model 3D structures and relationships.
-    - **Example**: 
-      In computer graphics, a 3D mesh can be represented as a graph where nodes are vertices in 3D space, and edges connect them to form faces.
+    def printGraph(self):
+        for node in self.nodes:
+            print(node,'->',self.graph[node])
+```
