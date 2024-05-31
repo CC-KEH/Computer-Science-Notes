@@ -1,3 +1,4 @@
+## Introduction
 An array is a data structure that stores a fixed-size sequential collection of elements of the same type. 
 - In java array stores elements in non continuous manner it depends on JVM.
 - In C++ and Python it stores in continuous manners

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "db9910685b020a77",
+        "id": "ebec1de24bf3acc5",
         "type": "tabs",
         "children": [
           {
-            "id": "a980b43b33ff21a8",
+            "id": "c5a95e77cb79aa6d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -74,7 +74,7 @@
       {
         "id": "afa9ae2c135e9f7b",
         "type": "tabs",
-        "dimension": 59.404761904761905,
+        "dimension": 53.815789473684205,
         "children": [
           {
             "id": "dee0d7033d7c5a53",
@@ -164,7 +164,7 @@
       {
         "id": "a18383d1cb98391b",
         "type": "tabs",
-        "dimension": 40.595238095238095,
+        "dimension": 46.184210526315795,
         "children": [
           {
             "id": "80679ea0679c89b6",
@@ -194,12 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a980b43b33ff21a8",
+  "active": "c5a95e77cb79aa6d",
   "lastOpenFiles": [
+    "Computer Science/DSA/Questions.md",
+    "Computer Science/DSA/Queues.md",
+    "Computer Science/DSA/Linked List.md",
+    "Computer Science/DSA/Stacks.md",
+    "Computer Science/DSA/Arrays.md",
+    "Computer Science/DSA/Recursion/Handling Answers in Recursion.md",
+    "Computer Science/DSA/Strings.md",
     "Computer Science/DSA/DSA.md",
     "Computer Science/DSA/Dynamic Programming.md",
-    "Computer Science/DSA/Arrays.md",
-    "Computer Science/DSA/Stacks and Queues.md",
     "Computer Science/DSA/Graphs/Graphs.md",
     "Computer Science/DSA/Graphs/Graph Traversal.md",
     "Computer Science/DSA/Graphs/Graph Representation.md",
@@ -219,11 +224,6 @@
     "Computer Science/Data Science/Data Collection and Cleaning.md",
     "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
     "Computer Science/assets/Pasted image 20240209175947.png",
-    "Machine Learning in Data Science.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Transformers.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Rosenblatt Neuron (Perceptron).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Recurrent Neural Networks (RNN).md",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures/Resnets.md",
     "Computer Science/assets/Pasted image 20240209183228.png",
     "Computer Science/Data Science/Data Analytics",
     "Computer Science/assets/Pasted image 20240125160521.png",
