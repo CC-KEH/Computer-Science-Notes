@@ -48,6 +48,12 @@ arr = [1, 2, 3]  # Declaration and initialization, both done at runtime
 ```
 
 
+## Dynamic Vs Static
+- Dynamic Arrays comes with the overhead of space allocation. Example, if the array is completely filled but we want to add more elements, then in that case the compiler will make an array of size len(arr) + 2 times len(arr), in a different location. So if the size of array was 10 then it will create a new array of size 30.
+- Static Arrays will cause Index out of bound error.
+
+
+
 ## Important patterns in core array problems
 1. **Two Pointer Technique**
     - Used for problems like finding pairs in a sorted array that sum to a specific value.

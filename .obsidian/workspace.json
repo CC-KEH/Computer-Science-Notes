@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ebec1de24bf3acc5",
+        "id": "c8ee9145482fddcc",
         "type": "tabs",
         "children": [
           {
-            "id": "c5a95e77cb79aa6d",
+            "id": "9af827d38b986e90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/System Design/CAP Theorem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/System Design/CAP Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/System Design/CAP Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/System Design/CAP Theorem.md"
+              }
             }
           },
           {
@@ -194,13 +202,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5a95e77cb79aa6d",
+  "active": "9af827d38b986e90",
   "lastOpenFiles": [
+    "Computer Science/System Design/System Design.md",
+    "Computer Science/System Design/Partition Tolerance.md",
+    "Computer Science/System Design/CAP Theorem.md",
+    "Computer Science/System Design/Consistency.md",
+    "Computer Science/System Design/Availability.md",
+    "Computer Science/System Design/Architecture.md",
+    "Computer Science/Data Science/Quick Notes.md",
+    "Computer Science/System Design/Latency.md",
+    "Computer Science/System Design",
+    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
+    "Computer Science/DSA/Arrays.md",
+    "Computer Science/Data Science/Data Engineering/Data Processing.md",
+    "Computer Science/Data Science/Data Engineering/Data Storage.md",
+    "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
+    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
+    "Computer Science/Data Science/Data Engineering/Apache.md",
+    "Computer Science/DSA/Stacks.md",
     "Computer Science/DSA/Questions.md",
     "Computer Science/DSA/Queues.md",
     "Computer Science/DSA/Linked List.md",
-    "Computer Science/DSA/Stacks.md",
-    "Computer Science/DSA/Arrays.md",
     "Computer Science/DSA/Recursion/Handling Answers in Recursion.md",
     "Computer Science/DSA/Strings.md",
     "Computer Science/DSA/DSA.md",
@@ -208,21 +231,7 @@
     "Computer Science/DSA/Graphs/Graphs.md",
     "Computer Science/DSA/Graphs/Graph Traversal.md",
     "Computer Science/DSA/Graphs/Graph Representation.md",
-    "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
-    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
-    "Computer Science/Data Science/Data Engineering/Data Processing.md",
-    "Computer Science/Data Science/Data Engineering/Data Storage.md",
-    "Computer Science/Data Science/Data Engineering/Untitled.md",
-    "Computer Science/Data Science/Data Engineering/Apache.md",
-    "Computer Science/Data Science/Data Engineering/Streaming.md",
-    "Computer Science/Data Science/Data Analytics/Data Analytics and Data Analysis.md",
     "Computer Science/Data Science/Data Engineering",
-    "Computer Science/Data Science/Statistical Analysis.md",
-    "Computer Science/Data Science/Introduction to Data Science.md",
-    "Computer Science/Data Science/Data Science Lifecycle.md",
-    "Computer Science/Data Science/Data Science.md",
-    "Computer Science/Data Science/Data Collection and Cleaning.md",
-    "Computer Science/Artificial Intelligence/Deep Learning/Deep Learning.md",
     "Computer Science/assets/Pasted image 20240209175947.png",
     "Computer Science/assets/Pasted image 20240209183228.png",
     "Computer Science/Data Science/Data Analytics",
@@ -241,7 +250,6 @@
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
     "Computer Science/Artificial Intelligence/Regularization",
-    "Computer Science/Artificial Intelligence/Deep Learning/architectures",
     "Untitled.canvas"
   ]
 }

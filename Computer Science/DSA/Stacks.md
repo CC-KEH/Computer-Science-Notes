@@ -66,10 +66,11 @@ int main() {
 ```
 
 ## Important Patterns to Identify Stacks
-1. The problem involves matching or pairing elements (e.g., parentheses, brackets).
-2. You need to keep track of elements in a certain order and access the most recent one.
-3. The solution requires maintaining a sequence of operations or states (e.g., undo operations).
-4. The problem involves processing elements with a certain precedence or associativity (e.g., expression evaluation).
-5. There is a need to traverse a data structure (e.g., tree, graph) without using recursion.
-6. The task involves calculating ranges or spans based on previous elements.
-7. You need to find the next greater or smaller element for each item in a collection.
+1. The problem wants you to keep track of a sequence of operations or states.
+2. The problem involves matching or pairing elements (e.g., parentheses, brackets).
+3. You need to keep track of elements in a certain order and access the most recent one.
+4. The solution requires maintaining a sequence of operations or states (e.g., undo operations).
+5. The problem involves processing elements with a certain precedence or associativity (e.g., expression evaluation).
+6. There is a need to traverse a data structure (e.g., tree, graph) without using recursion.
+7. The task involves calculating ranges or spans based on previous elements.
+8. You need to find the next greater or smaller element for each item in a collection.

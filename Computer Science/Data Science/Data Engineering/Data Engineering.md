@@ -43,8 +43,6 @@ A **data pipeline** is a series of processes that move data from one or more sou
 
 ### 5. Building a Simple Data Pipeline
 
-Let’s outline a simple data pipeline example:
-
 1. **Ingestion**: Use Apache Kafka to collect real-time user activity data from a web application.
 2. **Processing**: Use Apache Spark to clean, aggregate, and transform the data.
 3. **Storage**: Store the processed data in Amazon S3.
@@ -52,7 +50,6 @@ Let’s outline a simple data pipeline example:
 
 ### 6. Skills for Data Engineers
 
-To be effective in data engineering, one should develop skills in the following areas:
 
 - **Programming**: Proficiency in languages like Python, Java, or Scala.
 - **Database Management**: Knowledge of SQL and experience with relational and non-relational databases.
@@ -61,7 +58,6 @@ To be effective in data engineering, one should develop skills in the following 
 - **Data Warehousing**: Experience with data warehousing solutions like BigQuery, Snowflake, or Redshift.
 - **ETL Processes**: Expertise in ETL (Extract, Transform, Load) methodologies and tools.
 - **Data Modeling**: Skills in designing efficient data models and schemas.
-
 
 ### Conclusion
 Data engineering is a vital and dynamic field, providing the backbone for data-driven decision-making in organizations. By understanding data pipelines, tools, and necessary skills, you can build and maintain robust systems to handle large volumes of data efficiently.
