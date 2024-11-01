@@ -11,12 +11,12 @@
             "id": "9af827d38b986e90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Computer Science/System Design/CAP Theorem.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing_2024-11-01 19.05.18.excalidraw"
             }
           }
         ]
@@ -39,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/System Design/CAP Theorem.md",
+                "file": "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing_2024-11-01 19.05.18.excalidraw"
             }
           },
           {
@@ -102,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -111,10 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/System Design/CAP Theorem.md",
+                "file": "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing_2024-11-01 19.05.18.excalidraw"
             }
           },
           {
@@ -125,7 +137,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -134,8 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/System Design/CAP Theorem.md"
-              }
+                "file": "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing_2024-11-01 19.05.18.excalidraw"
             }
           },
           {
@@ -143,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -151,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -163,7 +183,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -179,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -204,14 +228,27 @@
   },
   "active": "9af827d38b986e90",
   "lastOpenFiles": [
+    "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md",
+    "Computer Science/One Page Notes/Untitled.canvas",
+    "Computer Science/One Page Notes/Statistics.md",
+    "Computer Science/One Page Notes/One Page Notes.md",
+    "Computer Science/Data Science/Interview Preparation.md",
+    "Computer Science/One Page Notes",
+    "Computer Science/Data Science/Data Science Pipeline.md",
+    "Computer Science/Data Science/Data Science Lifecycle.md",
+    "Computer Science/System Design/Caching.md",
+    "Computer Science/System Design/Load Balancer.md",
+    "Computer Science/System Design/Redundancy and Replication.md",
+    "Computer Science/System Design/Lamport Logical Clock.md",
+    "Computer Science/System Design/Scalability.md",
+    "Computer Science/System Design/Latency.md",
+    "Computer Science/System Design/CAP Theorem.md",
     "Computer Science/System Design/System Design.md",
     "Computer Science/System Design/Partition Tolerance.md",
-    "Computer Science/System Design/CAP Theorem.md",
     "Computer Science/System Design/Consistency.md",
     "Computer Science/System Design/Availability.md",
     "Computer Science/System Design/Architecture.md",
     "Computer Science/Data Science/Quick Notes.md",
-    "Computer Science/System Design/Latency.md",
     "Computer Science/System Design",
     "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
     "Computer Science/DSA/Arrays.md",
@@ -220,17 +257,6 @@
     "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
     "Computer Science/Data Science/Data Engineering/Data Engineering.md",
     "Computer Science/Data Science/Data Engineering/Apache.md",
-    "Computer Science/DSA/Stacks.md",
-    "Computer Science/DSA/Questions.md",
-    "Computer Science/DSA/Queues.md",
-    "Computer Science/DSA/Linked List.md",
-    "Computer Science/DSA/Recursion/Handling Answers in Recursion.md",
-    "Computer Science/DSA/Strings.md",
-    "Computer Science/DSA/DSA.md",
-    "Computer Science/DSA/Dynamic Programming.md",
-    "Computer Science/DSA/Graphs/Graphs.md",
-    "Computer Science/DSA/Graphs/Graph Traversal.md",
-    "Computer Science/DSA/Graphs/Graph Representation.md",
     "Computer Science/Data Science/Data Engineering",
     "Computer Science/assets/Pasted image 20240209175947.png",
     "Computer Science/assets/Pasted image 20240209183228.png",
@@ -249,7 +275,6 @@
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
     "Computer Science/Data Science/Important Questions",
     "Computer Science/Data Science/Ensemble Techniques",
-    "Computer Science/Artificial Intelligence/Regularization",
     "Untitled.canvas"
   ]
 }
