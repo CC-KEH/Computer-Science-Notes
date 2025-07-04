@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a706753621ce9e7d",
+        "id": "47fc8ddee2d45303",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa0b69e9524bb76",
+            "id": "c5c918728b5b02d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming/Typescript/2. JavaScript Operators.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. JavaScript Operators"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 303.5
   },
   "right": {
     "id": "c162cc94527f24b4",
@@ -209,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +230,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f47683db94e4f8cb",
+  "active": "c5c918728b5b02d0",
   "lastOpenFiles": [
+    "Computer Science/Programming/Typescript/1. Introduction to JavaScript.md",
+    "Computer Science/Programming/Typescript/2. JavaScript Operators.md",
+    "Computer Science/Programming/Rust/2. Variables and Data Types.md",
+    "Computer Science/Programming/Rust/1. Introduction to Rust.md",
+    "Computer Science/Programming/Rust/Functions and Expressions.md",
     "Computer Science/Cloud Computing/Cloud Computing.md",
     "Computer Science/Linux",
     "Computer Science/DBMS/MongoDB",
@@ -270,10 +279,6 @@
     "Computer Science/One Page Notes/Statistics.md",
     "Computer Science/Artificial Intelligence/Interview Preparation.md",
     "Computer Science/Artificial Intelligence/Data Science Pipeline.md",
-    "Computer Science/System Design/Caching.md",
-    "Computer Science/System Design/Load Balancer.md",
-    "Computer Science/System Design/Redundancy and Replication.md",
-    "Computer Science/System Design/Lamport Logical Clock.md",
     "Untitled.canvas"
   ]
 }
