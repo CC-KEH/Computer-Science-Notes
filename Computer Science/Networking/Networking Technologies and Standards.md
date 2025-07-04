@@ -1,3 +1,0 @@
-- **[[Ethernet]]:** Ethernet is a widely adopted standard for wired LANs, providing reliable and high-speed data transmission.
-- **[[IPv4 and IPv6]]:** IPv4 and IPv6 are addressing schemes used to identify devices on the internet.
-- **[[DNS (Domain Name System)]]:** DNS translates human-readable domain names into IP addresses, facilitating internet navigation.

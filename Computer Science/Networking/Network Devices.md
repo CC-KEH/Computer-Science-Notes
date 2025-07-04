@@ -1,2 +1,0 @@
-- **[[Network Devices]]:** Routers, switches, hubs, and access points are essential components that enable communication within a network.
-- **[[Protocols]]:** Network protocols, like TCP/IP, UDP, and HTTP, govern how data is transmitted and received across networks.

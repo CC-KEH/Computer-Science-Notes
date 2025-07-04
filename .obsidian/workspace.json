@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ee9145482fddcc",
+        "id": "a706753621ce9e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "9af827d38b986e90",
+            "id": "3aa0b69e9524bb76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing_2024-11-01 19.05.18.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -75,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 246.5
   },
   "right": {
     "id": "c162cc94527f24b4",
@@ -210,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,61 +219,62 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9af827d38b986e90",
+  "active": "ab0f3f792ad46378",
   "lastOpenFiles": [
-    "Computer Science/One Page Notes/Drawing_2024-11-01 19.05.18.excalidraw.md",
+    "Computer Science/Development",
+    "Computer Science/Development/Flutter/State Management.md",
+    "Computer Science/DBMS/Three Scheme Architecture.md",
+    "Computer Science/DBMS/DBMS.md",
+    "Computer Science/DBMS/Database Management System.md",
+    "Computer Science/DBMS/Data Model.md",
+    "Computer Science/Cloud Computing/Cloud Computing.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Machine Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Other machine learning topics.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Supervised/Supervised Learning.md",
+    "Computer Science/Artificial Intelligence/Machine Learning/Introduction to Machine Learning.md",
+    "Computer Science/Artificial Intelligence/Data Analytics/Analyzing interval data.md",
+    "Computer Science/Artificial Intelligence/Data Science Lifecycle.md",
+    "Computer Science/Artificial Intelligence/Data Science.md",
+    "Computer Science/Artificial Intelligence/Data Analytics/Data Measurement Levels.md",
+    "Computer Science/Artificial Intelligence/Data Analytics/Data Analytics and Data Analysis.md",
+    "Computer Science/assets/Pasted Image 20241104124449_381.png",
+    "Computer Science/One Page Notes/Statistics and Probability.md",
+    "Computer Science/assets/Pasted Image 20241105192314_117.png",
+    "Computer Science/assets/Pasted Image 20241105192235_955.png",
+    "Computer Science/assets/Pasted Image 20241105191652_907.png",
+    "Computer Science/Networking/Networking Models/OSI Model.md",
+    "Computer Science/One Page Notes/One Page Notes.md",
+    "Computer Science/assets/Pasted Image 20241105182350_524.png",
+    "Computer Science/assets/Pasted Image 20241105182308_503.png",
+    "Computer Science/assets/Pasted Image 20241105182002_180.png",
+    "Computer Science/assets/Pasted Image 20241104130351_353.png",
+    "Computer Science/assets/Pasted Image 20241104125101_140.png",
+    "Computer Science/assets/Pasted Image 20241104124756_945.png",
     "Computer Science/One Page Notes/Untitled.canvas",
     "Computer Science/One Page Notes/Statistics.md",
-    "Computer Science/One Page Notes/One Page Notes.md",
-    "Computer Science/Data Science/Interview Preparation.md",
+    "Computer Science/Artificial Intelligence/Interview Preparation.md",
     "Computer Science/One Page Notes",
-    "Computer Science/Data Science/Data Science Pipeline.md",
-    "Computer Science/Data Science/Data Science Lifecycle.md",
+    "Computer Science/Artificial Intelligence/Data Science Pipeline.md",
     "Computer Science/System Design/Caching.md",
     "Computer Science/System Design/Load Balancer.md",
     "Computer Science/System Design/Redundancy and Replication.md",
     "Computer Science/System Design/Lamport Logical Clock.md",
-    "Computer Science/System Design/Scalability.md",
-    "Computer Science/System Design/Latency.md",
-    "Computer Science/System Design/CAP Theorem.md",
-    "Computer Science/System Design/System Design.md",
-    "Computer Science/System Design/Partition Tolerance.md",
-    "Computer Science/System Design/Consistency.md",
-    "Computer Science/System Design/Availability.md",
-    "Computer Science/System Design/Architecture.md",
-    "Computer Science/Data Science/Quick Notes.md",
     "Computer Science/System Design",
-    "Computer Science/Artificial Intelligence/Machine Learning/Unsupervised/Clustering.md",
-    "Computer Science/DSA/Arrays.md",
-    "Computer Science/Data Science/Data Engineering/Data Processing.md",
-    "Computer Science/Data Science/Data Engineering/Data Storage.md",
-    "Computer Science/Data Science/Data Engineering/Data Ingestion.md",
-    "Computer Science/Data Science/Data Engineering/Data Engineering.md",
-    "Computer Science/Data Science/Data Engineering/Apache.md",
-    "Computer Science/Data Science/Data Engineering",
-    "Computer Science/assets/Pasted image 20240209175947.png",
-    "Computer Science/assets/Pasted image 20240209183228.png",
-    "Computer Science/Data Science/Data Analytics",
-    "Computer Science/assets/Pasted image 20240125160521.png",
-    "Computer Science/assets/Pasted image 20240125160712.png",
+    "Computer Science/Artificial Intelligence/Data Engineering",
+    "Computer Science/Artificial Intelligence/Data Analytics",
     "Computer Science/Artificial Intelligence/Deep Learning/Computer Vision",
-    "Computer Science/assets/1_DluPjzT_eTUFdzHCI7JBZA.gif",
-    "Computer Science/assets/0_YmOoWW7_5-St1t3I.gif",
-    "Computer Science/assets/Pasted image 20230710153808.png",
-    "Computer Science/assets/1_laN3aseisIU3T9QTIlob4Q.gif",
-    "Computer Science/assets/Pasted image 20240115203147.png",
-    "Computer Science/assets/Pasted image 20240104164501.png",
     "Computer Science/assets",
-    "Computer Science/Data Science/Time Series",
+    "Computer Science/Artificial Intelligence/Time Series",
     "Computer Science/Data Science/Ensemble Techniques/Untitled",
-    "Computer Science/Data Science/Important Questions",
-    "Computer Science/Data Science/Ensemble Techniques",
+    "Computer Science/Artificial Intelligence/Important Questions",
+    "Computer Science/Artificial Intelligence/Ensemble Techniques",
     "Untitled.canvas"
   ]
 }
