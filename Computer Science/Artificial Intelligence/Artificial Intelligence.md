@@ -4,14 +4,16 @@ Artificial Intelligence (AI) is a field of computer science that focuses on crea
 
 ## Index
 
-1. [[Introduction to AI]]
-2. [[History of AI]]
-3. [[Types of AI]]
-4. [[Machine Learning]]
-5. [[Deep Learning]]
-6. [[Natural Language Processing]]
-7. [[Computer Vision]]
-8. [[AI Ethics and Bias]]
-9. [[AI Applications]]
-10. [[AI Future Trends]]
+[[1. Introduction to AI]]
+[[2. History of AI]]
+[[3. Types of AI]]
+[[4. Machine Learning]]
+[[5. Deep Learning]]
+[[6. Natural Language Processing]]
+[[7. Computer Vision]]
+[[8. Generative AI]]
+[[9. AI Ethics and Bias]]
+[[10. AI Applications]]
+[[11. AI Future Trends]]
 
+---

@@ -1,0 +1,10 @@
+
+
+
+## Index
+
+[[Java]]
+[[Python]]
+[[Rust]]
+
+---
