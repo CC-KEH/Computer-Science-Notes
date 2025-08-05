@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9e58f98eb1314ef",
+        "id": "d97bf9fcf265bedf",
         "type": "tabs",
         "children": [
           {
-            "id": "b66ca87c3ea8abdc",
+            "id": "41d478402fd93be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Artificial Intelligence"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 257.5
   },
   "right": {
     "id": "c162cc94527f24b4",
@@ -229,44 +233,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b66ca87c3ea8abdc",
+  "active": "41d478402fd93be1",
   "lastOpenFiles": [
+    "Computer Science/Artificial Intelligence/Untitled",
+    "Computer Science/Artificial Intelligence/6. Natural Language Processing",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4. Machine Learning.md",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.10. Unsupervised Learning.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.9. K-Fold, LOO-CV, and Curse of Dimensionality.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.8. Bias, Variance, Underfitting, and Overfitting.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.7. More into Optimizations.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.6. Introduction to Optimizations.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.5. Decision Trees.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.4. K-Nearest Neighbors.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.3. Model Evaluations.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.2. Classification – Logistic Regression & Beyond.md",
+    "Computer Science/Artificial Intelligence/4. Machine Learning/4.1. Supervised Learning.md",
+    "Computer Science/Schedule.md",
+    "Computer Science/Programming/Typescript/8. Classes & Object-Oriented Programming (OOP).md",
+    "Computer Science/Programming/Typescript/7. Destructuring, Spread, and Rest Operators.md",
+    "Computer Science/Programming/Typescript/6. Objects – The Core Data Structure.md",
+    "Computer Science/Programming/Typescript/JavaScript Function Syntax Explained.md",
+    "Computer Science/Programming/Typescript/5. Arrays & Looping over Data.md",
+    "Computer Science/Programming/Typescript/4. Functions & Scope.md",
+    "Computer Science/Programming/Typescript/3. Control Flow in JavaScript.md",
+    "Computer Science/Programming/Typescript/2. JavaScript Operators.md",
+    "Computer Science/Programming/Typescript/1. Introduction to JavaScript.md",
     "Computer Science/Development/Frontend/React/8. Conditional Rendering in React.md",
     "Computer Science/Development/Frontend/React/React.md",
     "Computer Science/Development/Frontend/React/7. Handling Events in React.md",
-    "Computer Science/Development/Frontend/React/5. Props in Detail – One-Way Data Flow.md",
-    "Computer Science/Development/Frontend/React/6. State – Managing Component Data.md",
-    "Computer Science/Programming/Typescript/JavaScript Function Syntax Explained.md",
-    "Computer Science/Development/Frontend/React/Untitled.md",
     "Computer Science/Development/Frontend/React/Untitled",
-    "Computer Science/Development/Frontend/React/4. Creating and Using Components in React.md",
-    "Computer Science/Development/Frontend/React/3. Understanding JSX (JavaScript + XML).md",
-    "Computer Science/Schedule.md",
-    "Computer Science/Programming/Python/Python.md",
-    "Computer Science/Programming/Programming.md",
-    "Computer Science/Programming/Java/Java.md",
-    "Computer Science/Programming/Java/4. Control Flow in Java (if, switch, loops).md",
-    "Computer Science/Programming/Java/3. Operators and Expressions in Java.md",
-    "Computer Science/Programming/Java/2. Java Syntax, Variables & Data Types.md",
-    "Computer Science/Programming/Java/1. Introduction to Java & Setting Up the Environment.md",
-    "Computer Science/Programming/Rust/Rust.md",
-    "Computer Science/Development/Backend/Python/Django.md",
-    "Computer Science/Development/Backend/Python/FastAPI.md",
-    "Computer Science/Development/Backend/Python/PyMongo.md",
-    "Computer Science/Development/Backend/Python/Flask.md",
     "Computer Science/Development/Backend/Python/F",
-    "Computer Science/Development/Backend/Python/PostgreSQL.md",
-    "Computer Science/Development/Backend/Python/SQLite.md",
     "Computer Science/Development/Backend/Rust",
     "Computer Science/Development/Backend/JavaScript",
     "Computer Science/Development/Backend/Python",
-    "Untitled.md",
     "New Text Document.txt",
-    "Computer Science/Development/Frontend/Frontend.md",
     "Computer Science/Development/Untitled",
     "Computer Science/Programming/Python/Untitled",
-    "Computer Science/Artificial Intelligence/Computer Vision",
-    "Computer Science/Artificial Intelligence/Generative AI",
+    "Computer Science/Artificial Intelligence/7. Computer Vision",
     "Computer Science/assets/Pasted Image 20241104124449_381.png",
     "Computer Science/assets/Pasted Image 20241105192314_117.png",
     "Computer Science/assets/Pasted Image 20241105192235_955.png",
