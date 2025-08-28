@@ -3,12 +3,10 @@
 ## Index
 
 [[Artificial Intelligence]]
-[[Backend]]
 [[Cloud Computing]]
 [[Computer Networking]]
 [[DBMS]]
-[[DevOps]]
-[[Frontend]]
+[[Development]]
 [[Operating Systems]]
 [[Programming]]
 [[System Design]]
